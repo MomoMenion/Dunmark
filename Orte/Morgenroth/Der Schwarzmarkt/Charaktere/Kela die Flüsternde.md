@@ -8,7 +8,6 @@ Eine schmächtige, stets in dunkle Tücher gehüllte Gestalt, deren Gesicht fast
 - Schwäche eines Turniergegners: 50-100 Gold
 	- Pakt-Taktik der [[Schreckliche Hyäne]]n
 - Kryptische Prophezeiung der Merfolk (Fragment): 100-250 Gold
-		Hier ist die kryptische Prophezeiung der Merfolk, kurz und geheimnisvoll gereimt:
 
 		Im Glas er ruht, doch Schatten wachsen sacht,
 		Die alte Wunde reißt in dunkler Nacht.

@@ -1,6 +1,6 @@
 #Quest 
 
-Die Hauptquest [[Das Erwachen der Schatten]] dreht sich um die zunehmende Bedrohung durch die **Drows** und das drohende Erwachen des **uralten Drow-Fürsten** [[Malaka]] im Nordwesten der Wüste.
+Die Hauptquest [[Das Erwachen der Schatten]] dreht sich um die zunehmende Bedrohung durch die **Drows** und das drohende Erwachen des **uralten Drow-Fürsten** [[Malakar]] im Nordwesten der Wüste.
 
 Die Anzeichen beginnen subtil: ungewöhnliche Angriffe auf Handelskarawanen, gestörte Ork-Patrouillen an den [[Trommelberge]]n und kryptische Warnungen der **Merfolk**. All dies weist auf eine Verschiebung der alten Machtverhältnisse hin. Die [[Expeditionsgilde]] schickte unter anderem einen Brief an die Statthalter [[Marika & Marik]] in dem sie vom Fund einer uralten Festung im Nordwesten berichten - der [[Aschefestung]].
 
