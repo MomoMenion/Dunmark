@@ -1,0 +1,12 @@
+# Exclude workspace cache
+.obsidian/workspace.json
+# Exclude Untitled Notes
+Untitled*
+# Exclude "bad" names
+*null*
+# Exclude trash
+.trash/
+# Exclude OS settings and caches
+.DS_Store
+# Exclude Day Planner directory placed in vault root
+Day*Planners/*

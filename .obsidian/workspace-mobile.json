@@ -1,0 +1,174 @@
+{
+  "main": {
+    "id": "5e46145a87dba09f",
+    "type": "split",
+    "children": [
+      {
+        "id": "71ff270b9739c25c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "edb99ec7a2488ee2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02 - Secondary Categories/02 - Links and Resources.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2dfcfeb5a2cc8454",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "3c4aa318e1a0f15f",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "a7b0cbc223c13c26",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "d120f83e5d2881f9",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "ba91e59475018865",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "ed92375fb7ae631e",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "ce1e434c9af6a92f",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "02 - Secondary Categories/02 - Links and Resources.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "f6a219257c32a677",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "02 - Secondary Categories/02 - Links and Resources.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "bb31a63d7674b2bf",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "02 - Secondary Categories/02 - Links and Resources.md"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "edb99ec7a2488ee2",
+  "lastOpenFiles": [
+    "().md",
+    "02 - Secondary Categories/02 - Links and Resources.md",
+    "02 - Secondary Categories/02 - Configuration.md",
+    "01 - Primary Categories/01 - Administration.md",
+    "01 - Primary Categories/01 - Offense.md",
+    "05 - Personal/hobbies/lockpicking.md",
+    "05 - Personal/Training and Certification.md",
+    "01 - Primary Categories/01 - Training.md",
+    "05 - Personal/Training Goals.md",
+    "05 - Personal/To Do.md",
+    "05 - Personal/recipes/Ginger Bug.md",
+    "01 - Primary Categories/01 - Intelligence.md",
+    "01 - Primary Categories/01 - Defense.md",
+    "01 - Primary Categories",
+    "05 - Personal/recipes/Marens Surdeigsbrød.md",
+    "05 - Personal/recipes/Hot Sauce.md",
+    "05 - Personal/recipes/Nudelsuppe med svineknoke.md",
+    "05 - Personal/recipes/Tronds Brød.md",
+    "05 - Personal/recipes/Milkshake - Cookies and Cream.md",
+    "05 - Personal/Teoriprøven/Føreren.md",
+    "05 - Personal/Teoriprøven/Skilt og Veimerking.md",
+    "05 - Personal/Teoriprøven/Vikeplikt og Forkjørsrett.md",
+    "05 - Personal/Teoriprøven/Kjøretøyet.md",
+    "05 - Personal/Teoriprøven/Fart og Plassering.md",
+    "05 - Personal/Teoriprøven/Ansvar.md",
+    "05 - Personal/Teoriprøven/Parkering.md",
+    "05 - Personal/hobbies/retro-gaming.md",
+    "05 - Personal/recipes",
+    "05 - Personal/Teoriprøven",
+    "05 - Personal/hobbies",
+    "05 - Personal",
+    "02 - Secondary Categories",
+    "04 - Templates/04 - Structural Elements",
+    "04 - Templates",
+    "03 - Content"
+  ]
+}
