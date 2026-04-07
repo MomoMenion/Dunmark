@@ -1,0 +1,3 @@
+#Ort
+
+Die [[Trommelberge]] sind eine raue und zerklüftete Gebirgskette südlich der Wüste von [[Dunmark]]. Der Name stammt von den dumpfen, dröhnenden Geräuschen, die in den Schluchten widerhallen, als würden riesige Trommeln tief im Inneren geschlagen. In dieser unwirtlichen Landschaft aus ockerfarbenen Felsen und steilen Klippen leben zwei Völker: **Orks** haben sich oberirdisch in der Felsschlucht **Kranaks Schlund** niedergelassen, während die geheimnisvollen **Drows** tief in den unterirdischen Kavernen hausen, die die Berge durchziehen.

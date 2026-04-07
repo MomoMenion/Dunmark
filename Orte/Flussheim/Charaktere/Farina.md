@@ -1,0 +1,5 @@
+#Charakter 
+
+Farina ist eine junge, aber bereits von der harten Arbeit gezeichnete Frau aus [[Flussheim]]. Sie trägt die einfache, staubige Kleidung einer Bäuerin und hat immer eine Schürze umgebunden. Ihr Gesicht ist zart, aber ihre Augen sind voller Sorge. Ihre Haare sind zu einem strengen Zopf geflochten, der praktisch, aber nicht unschön ist. Im Gegensatz zu den fanatischen Kultisten hat sie sich dem Glauben des **Auge der Sonne** nicht angeschlossen und misstraut der Ideologie zutiefst. Sie ist eine besorgte Ehefrau, deren größtes Anliegen das Wohlergehen ihrer Familie ist. Sie hat die Spieler um Hilfe gebeten, weil sie die einzigen sind, denen sie ihre Ängste anvertrauen kann, ohne als "Ungläubige" gebrandmarkt zu werden. Ihre Entschlossenheit und Loyalität zu ihrer Familie sind die treibende Kraft hinter ihrer Bitte an die Spieler.
+
+![[Farina Bild.png]]

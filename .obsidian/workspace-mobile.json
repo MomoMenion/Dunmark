@@ -1,23 +1,20 @@
 {
   "main": {
-    "id": "5e46145a87dba09f",
+    "id": "5e6347c0e17b90bd",
     "type": "split",
     "children": [
       {
-        "id": "71ff270b9739c25c",
+        "id": "0e58d17f7087f971",
         "type": "tabs",
         "children": [
           {
-            "id": "edb99ec7a2488ee2",
+            "id": "f4105f8f698ec8c4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 - Secondary Categories/02 - Links and Resources.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -26,21 +23,24 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "2dfcfeb5a2cc8454",
+    "id": "96c51a89013ca809",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "3c4aa318e1a0f15f",
+        "id": "55f74cbd6b070eb0",
         "type": "leaf",
         "state": {
           "type": "file-explorer",
           "state": {
-            "sortOrder": "alphabetical"
-          }
+            "sortOrder": "alphabetical",
+            "autoReveal": false
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Files"
         }
       },
       {
-        "id": "a7b0cbc223c13c26",
+        "id": "64e4ba29fee5c8fd",
         "type": "leaf",
         "state": {
           "type": "search",
@@ -51,42 +51,50 @@
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical"
-          }
+          },
+          "icon": "lucide-search",
+          "title": "Search"
         }
       },
       {
-        "id": "d120f83e5d2881f9",
+        "id": "94a565191eea6210",
         "type": "leaf",
         "state": {
           "type": "tag",
           "state": {
             "sortOrder": "frequency",
-            "useHierarchy": true
-          }
+            "useHierarchy": true,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-tags",
+          "title": "Tags"
         }
       },
       {
-        "id": "ba91e59475018865",
+        "id": "1dd7e06cbedf4057",
         "type": "leaf",
         "state": {
           "type": "bookmarks",
-          "state": {}
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
         }
       }
     ],
     "currentTab": 0
   },
   "right": {
-    "id": "ed92375fb7ae631e",
+    "id": "9dfce67663ec2430",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "ce1e434c9af6a92f",
+        "id": "44869f83f4fe243e",
         "type": "leaf",
         "state": {
           "type": "backlink",
           "state": {
-            "file": "02 - Secondary Categories/02 - Links and Resources.md",
+            "file": "Gegner/Doppelgänger.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -94,29 +102,38 @@
             "searchQuery": "",
             "backlinkCollapsed": false,
             "unlinkedCollapsed": true
-          }
+          },
+          "icon": "links-coming-in",
+          "title": "Backlinks"
         }
       },
       {
-        "id": "f6a219257c32a677",
+        "id": "15cc28947e9ce88f",
         "type": "leaf",
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "02 - Secondary Categories/02 - Links and Resources.md",
+            "file": "Orte/Flussheim/Quests/Die ausbleibenden Steuern von Flussheim.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
-          }
+          },
+          "icon": "links-going-out",
+          "title": "Outgoing links"
         }
       },
       {
-        "id": "bb31a63d7674b2bf",
+        "id": "eae83494d44a1eb5",
         "type": "leaf",
         "state": {
           "type": "outline",
           "state": {
-            "file": "02 - Secondary Categories/02 - Links and Resources.md"
-          }
+            "file": "Orte/Flussheim/Quests/Die ausbleibenden Steuern von Flussheim.md",
+            "followCursor": false,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-list",
+          "title": "Outline"
         }
       }
     ],
@@ -124,51 +141,59 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "templater-obsidian:Templater": false
+      "command-palette:Open command palette": false
     }
   },
-  "active": "edb99ec7a2488ee2",
+  "active": "f4105f8f698ec8c4",
   "lastOpenFiles": [
-    "().md",
-    "02 - Secondary Categories/02 - Links and Resources.md",
-    "02 - Secondary Categories/02 - Configuration.md",
-    "01 - Primary Categories/01 - Administration.md",
-    "01 - Primary Categories/01 - Offense.md",
-    "05 - Personal/hobbies/lockpicking.md",
-    "05 - Personal/Training and Certification.md",
-    "01 - Primary Categories/01 - Training.md",
-    "05 - Personal/Training Goals.md",
-    "05 - Personal/To Do.md",
-    "05 - Personal/recipes/Ginger Bug.md",
-    "01 - Primary Categories/01 - Intelligence.md",
-    "01 - Primary Categories/01 - Defense.md",
-    "01 - Primary Categories",
-    "05 - Personal/recipes/Marens Surdeigsbrød.md",
-    "05 - Personal/recipes/Hot Sauce.md",
-    "05 - Personal/recipes/Nudelsuppe med svineknoke.md",
-    "05 - Personal/recipes/Tronds Brød.md",
-    "05 - Personal/recipes/Milkshake - Cookies and Cream.md",
-    "05 - Personal/Teoriprøven/Føreren.md",
-    "05 - Personal/Teoriprøven/Skilt og Veimerking.md",
-    "05 - Personal/Teoriprøven/Vikeplikt og Forkjørsrett.md",
-    "05 - Personal/Teoriprøven/Kjøretøyet.md",
-    "05 - Personal/Teoriprøven/Fart og Plassering.md",
-    "05 - Personal/Teoriprøven/Ansvar.md",
-    "05 - Personal/Teoriprøven/Parkering.md",
-    "05 - Personal/hobbies/retro-gaming.md",
-    "05 - Personal/recipes",
-    "05 - Personal/Teoriprøven",
-    "05 - Personal/hobbies",
-    "05 - Personal",
-    "02 - Secondary Categories",
-    "04 - Templates/04 - Structural Elements",
-    "04 - Templates",
-    "03 - Content"
+    "Gegner/Dire Hyäne.md",
+    "Orte/Flussheim/Flussheim.md",
+    "Die Glut unter der Oberfläche.md",
+    "Orte/Morgenroth/Gilden/Handelsgilde.md",
+    "Orte/Flussheim/Quests/Steuerverzug.md",
+    "Orte/Flussheim/Charaktere/Joran der Geizige.md",
+    "Orte/Flussheim/Charaktere/Bilder/Joran der Geizige Bild.jpg",
+    "Orte/Morgenroth/Charaktere/Soltan.md",
+    "Orte/Morgenroth/Morgenroth.md",
+    "Karte.canvas",
+    "Orte/Goldküste.md",
+    "Orte/Morgenroth/Der Schwarzmarkt/Charaktere/Lyra die Kräuterhexe.md",
+    "Orte/Morgenroth/Der Schwarzmarkt/Charaktere/Kaelen die Flüsternde.md",
+    "Orte/Morgenroth/Der Schwarzmarkt/Charaktere/Grimgul der Grinser.md",
+    "Orte/Morgenroth/Der Schwarzmarkt/Charaktere/Bilder/Lyra die Kräuterhexe Bild.jpg",
+    "Orte/Morgenroth/Der Schwarzmarkt/Schwarzmarkt.md",
+    "Orte/Morgenroth/Der Schwarzmarkt/Charaktere/Rostus der Schrotthändler.md",
+    "Orte/Morgenroth/Der Schwarzmarkt/Charaktere/Bilder/Rostus der Schrotthändler Bild.jpg",
+    "Orte/Morgenroth/Der Schwarzmarkt/Charaktere/Bilder/Kaelen die Flüsternde Bild.jpg",
+    "Dyre Hyänen.md",
+    "Orte/Morgenroth/Der Schwarzmarkt/Charaktere/Bilder/Grimgul der Grinser Bild.jpg",
+    "Orte/Morgenroth/Der Schwarzmarkt/Charaktere/Bilder",
+    "Orte/Morgenroth/Der Schwarzmarkt/Charaktere",
+    "Orte/Morgenroth/Zum Bierbäcker/Zum Bierbäcker.md",
+    "Orte/Morgenroth/Die Schmiede/Die Schmiede.md",
+    "Orte/Morgenroth/Der Schwarzmarkt/Quests/Untergrundturnier.md",
+    "Orte/Morgenroth/Der Schwarzmarkt/Quests",
+    "Gegner/Zimt-Gnome.md",
+    "Gegner/Wüstengeier.md",
+    "Gegner/Schattenmagier.md",
+    "Gegner/Schattenjäger.md",
+    "Gegner/Doppelgänger.md",
+    "Gegner/Bilder/Doppelgänger Bild.png",
+    "Gegner/Bilder/Dyre Hyäne Bild.jpg",
+    "Orte/Morgenroth/Der Schwarzmarkt/Bilder/Schwarzmarkt Bild.jpg",
+    "Orte/Morgenroth/Der Schwarzmarkt/Bilder",
+    "Orte/Morgenroth/Der Schwarzmarkt",
+    "Hauptquest/Das Erwachen der Schatten.md",
+    "Orte/Morgenroth/Gilden/Expeditionsgilde.md",
+    "Orte/Aschefestung/Charaktere/Malakar.md",
+    "Orte/Aschefestung/Charaktere",
+    "Orte/Laghan/Charaktere",
+    "Orte/Laghan"
   ]
 }
