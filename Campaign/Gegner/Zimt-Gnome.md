@@ -1,6 +1,6 @@
 #Gegner 
 
-_Klein, Humanoid (Gnom), chaotisch neutral, CR 1/4_
+_Klein, Humanoid, chaotisch neutral, CR 1/4_
 
 Diese kleinen, aber lebhaften Gnome haben eine ungesunde Obsession für Zimt entwickelt und verteidigen ihre Plantage mit List und Tücke. Sie sind nicht böswillig, aber extrem besitzergreifend, wenn es um ihre süße Beute geht.
 
