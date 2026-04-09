@@ -47,7 +47,7 @@
 - **Die Spieler werden selbst in die Sammlung verwickelt:** Sie könnten versucht sein, eines der Artefakte selbst zu behalten oder zu verkaufen, was neue Gefahren und moralische Dilemmata mit sich bringt.
 
 ### Belohnung:
-Gold von [[Soltan]], Ansehen bei der [[Handelsgilde]] und vielleicht wertvolle Informationen oder Gegenstände aus Jorans Sammlung, wenn die Spieler klug vorgehen.
+Gold von [[Soltan]], [[Ansehen]] bei der [[Handelsgilde]] und vielleicht wertvolle Informationen oder Gegenstände aus Jorans Sammlung, wenn die Spieler klug vorgehen.
 
 - 200 - 500 Gold im Keller in einer versteckten Truhe (unterschlagene Steuern)
 - [[Amulett der Schattenumarmung]]

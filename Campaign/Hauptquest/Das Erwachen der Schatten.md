@@ -9,11 +9,11 @@ Als die Bedrohung ernster wird, beauftragt der **Stadtrat von [[Morgenroth]]** d
 Im Laufe der Quest wird klar, dass die **Drows** aktiver werden, weil ihr uralter Fürst [[Malakar]], der einst von den **Merfolk** in einem gläsernen Sarg in der [[Aschefestung]] gebannt wurde, langsam wieder an Macht gewinnt und droht, zu erwachen. Dieser Fürst war einst mit der Merfolk Königin verheiratet und sie brachte es nicht übers Herz ihn zu töten und verbannte ihn demnach.
 
 Die Hauptquest mündet in einem Wettlauf gegen die Zeit: Die Spieler müssen **unwahrscheinliche Allianzen** mit den **Orks** und möglicherweise den **Merfolk** schmieden. Gemeinsam gilt es, die Pläne der **Drows** zu durchkreuzen und das vollständige Erwachen des Fürsten [[Malakar]] zu verhindern, indem sie seine alte [[Aschefestung]] im Nordwesten der Wüste infiltrieren oder seine wiederkehrende Macht anderweitig unterbrechen. Das Schicksal Dunmarks hängt davon ab, ob dieser uralte Feind ein für alle Mal aufgehalten werden kann.
-
 ## Prolog
+Die Spieler reisen gemeinsam an Bord eines Handelsschiffes nach [[Morgenroth]].
+#### Quests
 - [[Prolog auf See]]
 - [[Prolog an Land]]
-
 ## Akt 1 - Die dunklen Vorzeichen
 In Akt 1 werden die Spieler auf die größere Bedrohung der Drows aufmerksam gemacht und erste Hinweise gegeben.
 #### Quests

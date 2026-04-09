@@ -18,7 +18,7 @@ Die sogenannten Banditen sind in Wahrheit **Matrosen** eines Schiffes, das in [[
 
 ---
 #### Mögliche Enden
-- Die Banditen kämpferisch aus der [[Ausgrabungsstätte]] vertreiben und den Krug aus der [[Banditenhöhle]] bergen. Lysander Bescheid geben und den Krug zurückbringen.
+- Die Banditen kämpferisch aus der [[Ausgrabungsstätte]] vertreiben und den Krug aus der [[Banditenhöhle]] bergen. [[Lysander]] Bescheid geben und den Krug zurückbringen.
 - Die Banditen überzeugen, keine Überfälle mehr zu machen. Sie bräuchten dann eine andere Perspektive auf eine neue Zukunft.
 #### Belohnung:
 - **Gold:** `200-500 Goldstücke`, je nach dem, wie gut die Spieler die Aufgabe erledigen.

@@ -1,0 +1,76 @@
+{
+  "biggerIcons": "mobile",
+  "clickableIcons": "desktop",
+  "showAllFileIcons": false,
+  "showAllFolderIcons": false,
+  "minimalFolderIcons": true,
+  "showMarkdownTabIcons": true,
+  "showTitleIcons": true,
+  "showTagPillIcons": false,
+  "showMenuActions": true,
+  "showSuggestionIcons": false,
+  "showQuickSwitcherIcons": true,
+  "showMoveFileIcons": true,
+  "showItemName": "desktop",
+  "biggerSearchResults": "mobile",
+  "maxSearchResults": 50,
+  "colorPicker1": "list",
+  "colorPicker2": "rgb",
+  "uncolorHover": false,
+  "uncolorDrag": false,
+  "uncolorSelect": false,
+  "uncolorQuick": false,
+  "rememberDeletedItems": false,
+  "maxBackups": 5,
+  "dialogState": {
+    "iconMode": true,
+    "emojiMode": false,
+    "rulePage": "file"
+  },
+  "appIcons": {},
+  "tabIcons": {},
+  "fileIcons": {
+    "Campaign/Gegner": {
+      "icon": "lucide-sword",
+      "unsynced": [
+        "a367c263d6ab2c0f"
+      ]
+    },
+    "Campaign/Hauptquest": {
+      "icon": "lucide-crown",
+      "unsynced": [
+        "a367c263d6ab2c0f"
+      ]
+    },
+    "Campaign/Items": {
+      "icon": "lucide-axe",
+      "unsynced": [
+        "a367c263d6ab2c0f"
+      ]
+    },
+    "Campaign/Maps": {
+      "icon": "lucide-map",
+      "unsynced": [
+        "a367c263d6ab2c0f"
+      ]
+    },
+    "Campaign/Orte": {
+      "icon": "lucide-house",
+      "unsynced": [
+        "a367c263d6ab2c0f"
+      ]
+    },
+    "Campaign/Systeme": {
+      "icon": "lucide-settings",
+      "unsynced": [
+        "a367c263d6ab2c0f"
+      ]
+    }
+  },
+  "bookmarkIcons": {},
+  "tagIcons": {},
+  "propertyIcons": {},
+  "ribbonIcons": {},
+  "fileRules": [],
+  "folderRules": []
+}

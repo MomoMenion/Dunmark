@@ -43,4 +43,4 @@ Die Reise zur [[Zimt-Oase]] ist nicht allzu lang, aber die Hitze der Wüste und 
     - **Erfolg:** Die Gnome werden besiegt oder vertrieben, und die Plantage ist wieder zugänglich.
 ### Ergebnis
 
-Die Zimtlieferungen nach Morgenroth werden wieder aufgenommen. Je nach gewähltem Lösungsweg kann dies zu einer dauerhaften, skurrilen Zusammenarbeit mit den Gnomen führen oder zu einer einmaligen, aber denkwürdigen Vertreibung. Marthas Zimtschnecken sind gerettet, und die Spieler erhalten einen Ansehensbonus bei der Taverne und den Handwerkern von Morgenroth.
+Die Zimtlieferungen nach [[Morgenroth]] werden wieder aufgenommen. Je nach gewähltem Lösungsweg kann dies zu einer dauerhaften, skurrilen Zusammenarbeit mit den Gnomen führen oder zu einer einmaligen, aber denkwürdigen Vertreibung. Marthas Zimtschnecken sind gerettet, und die Spieler erhalten einen Ansehensbonus bei der Taverne und den Handwerkern von Morgenroth.

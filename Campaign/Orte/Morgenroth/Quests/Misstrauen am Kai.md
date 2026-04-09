@@ -1,6 +1,6 @@
 #Quest 
 
-Ein Schiff aus **Faerûn** liegt im Hafen von [[Morgenroth]]. Die Schiffswache verweigert den Zutritt und ist ungewöhnlich abweisend – in Wahrheit wurde die Crew auf hoher See von [[Doppelgänger]]n übernommen. Die ahnungslose Stadtwache von Morgenroth, beschäftigt mit der Eingliederung neuer Ankömmlinge, bittet die Spielergruppe, die Situation zu untersuchen. Der einzige Überlebende der echten Crew ist ein junges Mädchen, das sich in einem Fass versteckt hat.
+Ein Schiff aus **Faerûn** liegt im Hafen von [[Morgenroth]]. Die Schiffswache verweigert den Zutritt und ist ungewöhnlich abweisend – in Wahrheit wurde die Crew auf hoher See von [[Doppelgänger]]n übernommen. Die ahnungslose Stadtwache von [[Morgenroth]], beschäftigt mit der Eingliederung neuer Ankömmlinge, bittet die Spielergruppe, die Situation zu untersuchen. Der einzige Überlebende der echten Crew ist ein junges Mädchen, das sich in einem Fass versteckt hat.
 #### Charaktere
 - [[Hauptmann Kaelen]] (Auftraggeber)
 - Die Schiffswachen Adam und Abraham

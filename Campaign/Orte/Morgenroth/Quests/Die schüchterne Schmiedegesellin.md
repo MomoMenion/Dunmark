@@ -13,11 +13,11 @@ ___
 
 - **Gesten und Mimik:** Sie ermutigen, ihre Wünsche durch Gesten auszudrücken.
 
-- **Suche nach Übersetzern:** Gibt es jemanden in [[Morgenroth]], der ihre Sprache spricht (z.B. einen anderen Tiefling oder ein Gelehrter, der Sprachen studiert)?
+- **Suche nach Übersetzern:** Gibt es jemanden in [[Morgenroth]], der ihre Sprache spricht (z.B. einen anderen Tiefling oder ein Gelehrter, der Sprachen studiert)? ([[Lysander]] hat ein Sprachbuch)
 
 - **Empathie/Einsicht:** Spieler mit hoher Weisheit (Einsicht) oder Charisma (Überzeugen/Täuschung) könnten versuchen, ihre wahren Gefühle und Wünsche zu ergründen.
 
-**Die Enthüllung:** Nach einiger Zeit wird klar, dass [[Zira]] nur eines will: Sie möchte als **Schmiedegesellin** bei [[Gorn Hammerfall]] anfangen. Ihre Faszination ist rein und aufrichtig, und sie hat schon in Faerûn eine gewisse Begabung für das Handwerk gezeigt. Ihre "Dämonen"-Merkmale (Hörner, Schwanz) könnten sie in ihrer Heimat zu einer Außenseiterin gemacht haben, und sie sucht in Morgenroth eine neue Heimat.
+**Die Enthüllung:** Nach einiger Zeit wird klar, dass [[Zira]] nur eines will: Sie möchte als **Schmiedegesellin** bei [[Gorn Hammerfall]] anfangen. Ihre Faszination ist rein und aufrichtig, und sie hat schon in **Faerûn** eine gewisse Begabung für das Handwerk gezeigt. Ihr Vater war Schmied, leider ist die Familienschmiede abgebrannt und ihre Familie gleich mit. [[Zira]] sucht in [[Morgenroth]] eine neue Heimat und hat sich auf einem Schiff als blinder Passagier nach [[Morgenroth]] begeben.
 
 **Vermittlung beim Schmied:** Die Spieler müssen [[Gorn Hammerfall]] die wahren Absichten des Mädchens vermitteln. Er könnte zunächst zögern, da er keine Erfahrung mit Tieflingen hat, sie kein Common spricht und er vielleicht Vorurteile oder Bedenken bezüglich ihrer Herkunft hat. Die Spieler müssen ihn überzeugen, ihr eine Chance zu geben, indem sie ihre Leidenschaft und ihr Potenzial hervorheben.
 

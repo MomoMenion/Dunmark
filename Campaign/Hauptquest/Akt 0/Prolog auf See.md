@@ -18,4 +18,7 @@ Ein lautes Knarzen dröhnt durch die Nacht. Ein gewaltiger Riss bildet sich im H
 #### Das [[Auge der Tiefsee]]
 Mitten im Chaos des Sturms erhebt sich eine gewaltige, schuppige Gestalt aus der Tiefe. Es ist eine **Seeschlange**, deren Kopf so groß wie eine Kutsche ist. Sie umkreist das Schiff und nutzt die tosenden Wellen, um sich immer wieder aus dem Wasser zu katapultieren. Ihr Maul ist mit messerscharfen Zähnen gespickt, und sie visiert den kaputten Mast eures Schiffes als ihr nächstes Opfer an.
 #### Der erste Kampf
-Dies ist euer Moment, das Steuer zu übernehmen und eure Schicksale zu schmieden. Der Kampf gegen die Seeschlange erfordert nicht nur rohe Gewalt, sondern auch strategisches Vorgehen. Während einige von euch das Biest mit Pfeilen, Zaubern oder Klingen attackieren, müssen andere den wankenden Mast sichern, bevor er bricht und das Schiff zum Sinken bringt. Es ist eine Situation, in der ihr euch nicht als Einzelkämpfer, sondern als Einheit beweisen müsst. Werdet ihr gemeinsam bestehen, oder werdet ihr und das Schiff in den Tiefen des Ozeans versinken?
+- Mast muss gesichert werden
+- NPCs müssen gerettet werden
+- [[Auge der Tiefsee]] muss in die Flucht geschlagen werden
+	- Harpunen-Balliste
