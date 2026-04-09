@@ -1,12 +1,80 @@
 {
   "recentFiles": [
     {
-      "basename": "Auge der Tiefsee",
-      "path": "Campaign/Gegner/Auge der Tiefsee.md"
+      "basename": "Gesetze von Morgenroth",
+      "path": "Campaign/Orte/Morgenroth/Gesetze von Morgenroth.md"
+    },
+    {
+      "basename": "Morgenroth",
+      "path": "Campaign/Orte/Morgenroth/Morgenroth.md"
+    },
+    {
+      "basename": "Session 1 – Ankunft in Morgenroth",
+      "path": "Sessions/Session 1 – Ankunft in Morgenroth.md"
+    },
+    {
+      "basename": "Zum Bierbäcker",
+      "path": "Campaign/Orte/Morgenroth/Zum Bierbäcker/Zum Bierbäcker.md"
+    },
+    {
+      "basename": "Martha",
+      "path": "Campaign/Orte/Morgenroth/Charaktere/Martha.md"
+    },
+    {
+      "basename": "Ansehen",
+      "path": "Campaign/Systeme/Ansehen.md"
+    },
+    {
+      "basename": "Gorn Hammerfall",
+      "path": "Campaign/Orte/Morgenroth/Charaktere/Gorn Hammerfall.md"
+    },
+    {
+      "basename": "Kapitän Elias Richter",
+      "path": "Campaign/Hauptquest/Akt 0/Charaktere/Kapitän Elias Richter.md"
+    },
+    {
+      "basename": "Prolog an Land",
+      "path": "Campaign/Hauptquest/Akt 0/Prolog an Land.md"
     },
     {
       "basename": "Prolog auf See",
       "path": "Campaign/Hauptquest/Akt 0/Prolog auf See.md"
+    },
+    {
+      "basename": "Zimtschnecken Nachschub",
+      "path": "Campaign/Orte/Morgenroth/Quests/Zimtschnecken Nachschub.md"
+    },
+    {
+      "basename": "Die schüchterne Schmiedegesellin",
+      "path": "Campaign/Orte/Morgenroth/Quests/Die schüchterne Schmiedegesellin.md"
+    },
+    {
+      "basename": "Misstrauen am Kai",
+      "path": "Campaign/Orte/Morgenroth/Quests/Misstrauen am Kai.md"
+    },
+    {
+      "basename": "Vermisste Karawanen",
+      "path": "Campaign/Hauptquest/Akt 1/Vermisste Karawanen.md"
+    },
+    {
+      "basename": "Dunmark",
+      "path": "Campaign/Orte/Dunmark.md"
+    },
+    {
+      "basename": "Trommelberge",
+      "path": "Campaign/Orte/Trommelberge.md"
+    },
+    {
+      "basename": "Laghan",
+      "path": "Campaign/Orte/Laghan/Laghan.md"
+    },
+    {
+      "basename": "Das Erwachen der Schatten",
+      "path": "Campaign/Hauptquest/Das Erwachen der Schatten.md"
+    },
+    {
+      "basename": "Auge der Tiefsee",
+      "path": "Campaign/Gegner/Auge der Tiefsee.md"
     },
     {
       "basename": "Amulett der Schattenumarmung",
@@ -49,48 +117,12 @@
       "path": "Campaign/Übersicht.md"
     },
     {
-      "basename": "Prolog an Land",
-      "path": "Campaign/Hauptquest/Akt 0/Prolog an Land.md"
-    },
-    {
-      "basename": "Kapitän Elias Richter",
-      "path": "Campaign/Hauptquest/Akt 0/Charaktere/Kapitän Elias Richter.md"
-    },
-    {
-      "basename": "Das Erwachen der Schatten",
-      "path": "Campaign/Hauptquest/Das Erwachen der Schatten.md"
-    },
-    {
       "basename": "Tauchgang nach Laghan",
       "path": "Campaign/Hauptquest/Akt 2/Tauchgang nach Laghan.md"
     },
     {
-      "basename": "Morgenroth",
-      "path": "Campaign/Orte/Morgenroth/Morgenroth.md"
-    },
-    {
-      "basename": "Zimtschnecken Nachschub",
-      "path": "Campaign/Orte/Morgenroth/Quests/Zimtschnecken Nachschub.md"
-    },
-    {
-      "basename": "Laghan",
-      "path": "Campaign/Orte/Laghan/Laghan.md"
-    },
-    {
-      "basename": "Misstrauen am Kai",
-      "path": "Campaign/Orte/Morgenroth/Quests/Misstrauen am Kai.md"
-    },
-    {
-      "basename": "Die schüchterne Schmiedegesellin",
-      "path": "Campaign/Orte/Morgenroth/Quests/Die schüchterne Schmiedegesellin.md"
-    },
-    {
       "basename": "Steuerverzug",
       "path": "Campaign/Orte/Flussheim/Quests/Steuerverzug.md"
-    },
-    {
-      "basename": "Ansehen",
-      "path": "Campaign/Systeme/Ansehen.md"
     },
     {
       "basename": "Melantes",
