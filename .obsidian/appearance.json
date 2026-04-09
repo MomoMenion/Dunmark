@@ -1,1 +1,9 @@
-{}
+{
+  "cssTheme": "Obsidian Nord",
+  "nativeMenus": false,
+  "baseFontSizeAction": true,
+  "showRibbon": true,
+  "showViewHeader": true,
+  "accentColor": "#dd955a",
+  "baseFontSize": 15
+}
