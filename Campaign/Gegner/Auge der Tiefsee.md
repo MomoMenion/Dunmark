@@ -22,7 +22,6 @@ Die Seeschlange kann unter Wasser und an Land atmen.
 Die dicken Schuppen der Schlange bieten ihr Resistenz gegen nichtmagischen Hiebschaden, der nicht von einer Belagerungswaffe (z.B. einer Harpunen-Balliste) stammt.
 ##### Todesangst (Flucht)
 Wenn die Seeschlange am Anfang ihres Zuges 40 Trefferpunkte oder weniger hat, muss sie einen Weisheit-Rettungswurf (DC 13) ablegen. Bei einem Misserfolg versucht die Schlange sofort, aus dem Kampf zu fliehen, indem sie unter die Wellen taucht und sich mit ihrer gesamten Bewegungsrate entfernt.
-
 #### Aktionen
 ##### Biss
 Nahkampfangriff: +6 zum Treffen, Reichweite 10 ft., ein Ziel. Treffer: 1d12 + 4 Stichschaden plus 1d4 Kälteschaden.
