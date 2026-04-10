@@ -8,7 +8,6 @@ Unwissenheit schützt vor Strafe nicht. Jeder Ankömmling wird beim Betreten der
 über die Regeln informiert. Wer danach verstößt, trägt die volle Verantwortung.
 
 ---
-
 ## Die drei Grundgesetze
 
 ### 1. Kein Einsatz von Magie
@@ -19,13 +18,12 @@ Dies umfasst:
 - Das sichtbare Aufladen oder Vorbereiten magischer Fähigkeiten
 
 **Ausnahmen:**
-- Magische Gegenstände dürfen *besessen*, aber nicht *aktiviert* werden
+- Mindere magische Gegenstände dürfen *besessen*, aber nicht *aktiviert* werden
 - Passive magische Eigenschaften (z.B. Dunkelsicht) sind erlaubt
 - In Notwehr gewirkter Magie kann strafmindernd ausgelegt werden – 
   auf Ermessen des Rates
 
 ---
-
 ### 2. Kein Besitz oder Handel mit verbotenen Artefakten
 Magische Artefakte mit offensichtlich zerstörerischer oder dunkler Natur 
 sind verboten. Dies umfasst:
@@ -38,7 +36,6 @@ Erlaubt sind magische Gegenstände, die passiv wirken und keine Gefahr darstelle
 sofern sie nicht öffentlich eingesetzt werden.
 
 ---
-
 ### 3. Keine religiösen Rituale oder Symbole
 Jegliche öffentliche Ausübung von Religion ist verboten. Dies umfasst:
 - Gebete, Rituale oder Zeremonien jeder Art
@@ -51,7 +48,6 @@ Was in den eigenen vier Wänden geschieht, ist Privatsache –
 solange es keine anderen Bürger betrifft.
 
 ---
-
 ## Strafen
 
 ### Erste Vergehen
@@ -61,14 +57,12 @@ solange es keine anderen Bürger betrifft.
 | Besitz eines verbotenen Artefakts | Konfiszierung, 100 Gold Geldstrafe |
 | Religiöses Symbol in der Öffentlichkeit | Verwarnung, Konfiszierung des Symbols |
 | Öffentliches Ritual oder Gebet | Verhaftung, 50 Gold Geldstrafe |
-
 ### Wiederholungstäter
 Wer ein zweites Mal gegen dieselbe Regel verstößt, riskiert:
 - Verlust des **Morgenroth-Abzeichens** (sofern vorhanden)
 - Temporäres Stadtverbot (1d6 Wochen)
 - Erhöhte Geldstrafe (doppelt)
 - Im Extremfall: Permanentes Stadtverbot
-
 ### Schwere Vergehen
 Wer Magie einsetzt, um Stadtbewohner zu schaden, verbotene Artefakte 
 aktiv in der Stadt einsetzt oder religiöse Gruppen organisiert und 
@@ -78,7 +72,6 @@ in der Öffentlichkeit agiert:
 - Permanentes Stadtverbot oder Inhaftierung
 
 ---
-
 ## Durchsetzung
 
 Die Gesetze werden von der **Stadtwache** unter [[Hauptmann Kaelen]] durchgesetzt.
@@ -91,7 +84,6 @@ Der [[Der Rat von Morgenroth|Rat von Morgenroth]] ist die letzte Instanz bei
 schweren Vergehen und Berufungen.
 
 ---
-
 ## Ansehen & Konsequenzen
 
 Gesetzesverstöße wirken sich direkt auf das **[[Ansehen in Morgenroth]]** aus:
@@ -105,7 +97,6 @@ Gesetzesverstöße wirken sich direkt auf das **[[Ansehen in Morgenroth]]** aus:
 | Verhaftung (egal wofür) | -10 |
 
 ---
-
 ## Hinweis für den Spielleiter
 
 Die Gesetze sollen Spannung erzeugen, nicht die Spieler bestrafen.

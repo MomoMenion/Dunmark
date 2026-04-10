@@ -9,3 +9,6 @@ Man sieht ihn selten ohne einen **gut gefüllten Weinpokal** in der Hand, und Ge
 Trotz seines ausschweifenden Lebensstils ist Soltan ein **durchtriebener und effektiver Geschäftsmann**. Er weiß, wie man die Fäden zieht, und er hat ein Gespür dafür, wer die Arbeit erledigen kann.
 
 ![[Soltan Bild.png]]
+
+#### Quests
+- [[Steuerverzug]]

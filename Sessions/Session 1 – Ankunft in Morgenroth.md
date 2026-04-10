@@ -69,10 +69,11 @@ Eine Riesenkrabbe treibt gerade ihr Unwesen dort.
 ## Locations
 
 ### Bekannte Locations
-- Hafen – Ankunft, Hafenwache, erster Eindruck der Stadt
+- [[Hafen]] – Ankunft, Hafenwache, erster Eindruck der Stadt
 - [[Zum Bierbäcker]] – Unterkunft der Spieler, Martha, Gerüchte
 - [[Die Schmiede]] – Gorn Hammerfall, Zira
 - [[Basar|Der Basar]]
+- [[Zur Ankerkette]]
 
 **Die Hafentreppe**
 Eine breite Steintreppe, die vom Hafen in die Stadt führt. 
@@ -81,7 +82,6 @@ Gut geeignet für die erste Begegnung mit [[Hauptmann Kaelen]].
 	*"Kommt später in die [[Kaserne]] am [[Ratsplatz]], wenn ihr eure Habe bezogen und euch ein wenig von [[Martha]] habt stärken lassen."*
 
 ---
-
 ## Notizen für den Spielleiter
 
 - Die [[Gesetze von Morgenroth]] von Anfang an klar kommunizieren – 

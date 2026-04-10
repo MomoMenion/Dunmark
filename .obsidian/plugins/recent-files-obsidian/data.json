@@ -1,6 +1,34 @@
 {
   "recentFiles": [
     {
+      "basename": "Übersicht",
+      "path": "Campaign/Übersicht.md"
+    },
+    {
+      "basename": "Morgenroth",
+      "path": "Campaign/Orte/Morgenroth/Morgenroth.md"
+    },
+    {
+      "basename": "Soltan",
+      "path": "Campaign/Orte/Morgenroth/Charaktere/Soltan.md"
+    },
+    {
+      "basename": "Handelsgilde",
+      "path": "Campaign/Orte/Morgenroth/Gilden/Handelsgilde.md"
+    },
+    {
+      "basename": "Steuerverzug",
+      "path": "Campaign/Orte/Flussheim/Quests/Steuerverzug.md"
+    },
+    {
+      "basename": "Vermisste Karawanen",
+      "path": "Campaign/Hauptquest/Akt 1/Vermisste Karawanen.md"
+    },
+    {
+      "basename": "Das Auge der Sonne",
+      "path": "Campaign/Orte/Flussheim/Quests/Das Auge der Sonne.md"
+    },
+    {
       "basename": "Session 1 – Ankunft in Morgenroth",
       "path": "Sessions/Session 1 – Ankunft in Morgenroth.md"
     },
@@ -11,6 +39,34 @@
     {
       "basename": "Ein ungewöhnliches Haustier",
       "path": "Campaign/Orte/Morgenroth/Stadtviertel/Hafen/Quests/Ein ungewöhnliches Haustier.md"
+    },
+    {
+      "basename": "Dunmark",
+      "path": "Campaign/Orte/Dunmark.md"
+    },
+    {
+      "basename": "Gesetze von Morgenroth",
+      "path": "Campaign/Orte/Morgenroth/Gesetze von Morgenroth.md"
+    },
+    {
+      "basename": "Trommelberge",
+      "path": "Campaign/Orte/Trommelberge.md"
+    },
+    {
+      "basename": "Ratsplatz",
+      "path": "Campaign/Orte/Morgenroth/Stadtviertel/Ratsplatz/Ratsplatz.md"
+    },
+    {
+      "basename": "Kaserne",
+      "path": "Campaign/Orte/Morgenroth/Stadtviertel/Ratsplatz/Kaserne/Kaserne.md"
+    },
+    {
+      "basename": "Hauptmann Kaelen",
+      "path": "Campaign/Orte/Morgenroth/Charaktere/Hauptmann Kaelen.md"
+    },
+    {
+      "basename": "Hafen",
+      "path": "Campaign/Orte/Morgenroth/Stadtviertel/Hafen/Hafen.md"
     },
     {
       "basename": "Großadmiral",
@@ -37,14 +93,6 @@
       "path": "Campaign/Hauptquest/Akt 2/Erkundung der Aschefestung.md"
     },
     {
-      "basename": "Übersicht",
-      "path": "Campaign/Übersicht.md"
-    },
-    {
-      "basename": "Dunmark",
-      "path": "Campaign/Orte/Dunmark.md"
-    },
-    {
       "basename": "Die Goldküsten-Ausgrabung",
       "path": "Campaign/Orte/Morgenroth/Gilden/Expeditionsgilde/Quests/Die Goldküsten-Ausgrabung.md"
     },
@@ -59,10 +107,6 @@
     {
       "basename": "Badehaus",
       "path": "Campaign/Orte/Morgenroth/Stadtviertel/Flussviertel/Badehaus/Badehaus.md"
-    },
-    {
-      "basename": "Vermisste Karawanen",
-      "path": "Campaign/Hauptquest/Akt 1/Vermisste Karawanen.md"
     },
     {
       "basename": "Wüstengeier",
@@ -109,14 +153,6 @@
       "path": "Campaign/Orte/Morgenroth/Charaktere/Aldric.md"
     },
     {
-      "basename": "Ratsplatz",
-      "path": "Campaign/Orte/Morgenroth/Stadtviertel/Ratsplatz/Ratsplatz.md"
-    },
-    {
-      "basename": "Kaserne",
-      "path": "Campaign/Orte/Morgenroth/Stadtviertel/Ratsplatz/Kaserne/Kaserne.md"
-    },
-    {
       "basename": "Apotheke",
       "path": "Campaign/Orte/Morgenroth/Stadtviertel/Basar/Apotheke/Apotheke.md"
     },
@@ -125,16 +161,8 @@
       "path": "Campaign/Orte/Morgenroth/Charaktere/Zira.md"
     },
     {
-      "basename": "Soltan",
-      "path": "Campaign/Orte/Morgenroth/Charaktere/Soltan.md"
-    },
-    {
       "basename": "Martha",
       "path": "Campaign/Orte/Morgenroth/Charaktere/Martha.md"
-    },
-    {
-      "basename": "Hauptmann Kaelen",
-      "path": "Campaign/Orte/Morgenroth/Charaktere/Hauptmann Kaelen.md"
     },
     {
       "basename": "Gorn Hammerfall",
@@ -145,16 +173,8 @@
       "path": "Campaign/Orte/Morgenroth/Stadtviertel/Basar/Basar.md"
     },
     {
-      "basename": "Morgenroth",
-      "path": "Campaign/Orte/Morgenroth/Morgenroth.md"
-    },
-    {
       "basename": "Der Rat von Morgenroth",
       "path": "Campaign/Orte/Morgenroth/Gilden/Der Rat von Morgenroth.md"
-    },
-    {
-      "basename": "Handelsgilde",
-      "path": "Campaign/Orte/Morgenroth/Gilden/Handelsgilde.md"
     },
     {
       "basename": "Zimtschnecken Nachschub",
@@ -173,32 +193,12 @@
       "path": "Campaign/Orte/Morgenroth/Stadtviertel/Basar/Zum Bierbäcker/Zum Bierbäcker.md"
     },
     {
-      "basename": "Hafen",
-      "path": "Campaign/Orte/Morgenroth/Stadtviertel/Hafen/Hafen.md"
-    },
-    {
       "basename": "Flussviertel",
       "path": "Campaign/Orte/Morgenroth/Stadtviertel/Flussviertel/Flussviertel.md"
     },
     {
       "basename": "Morgenroth River",
       "path": "Campaign/Orte/Morgenroth/Bilder/Morgenroth River.jpg"
-    },
-    {
-      "basename": "Morgenroth Market",
-      "path": "Campaign/Orte/Morgenroth/Bilder/Morgenroth Market.jpg"
-    },
-    {
-      "basename": "Morgenroth Harbour",
-      "path": "Campaign/Orte/Morgenroth/Bilder/Morgenroth Harbour.jpg"
-    },
-    {
-      "basename": "Morgenroth City Council",
-      "path": "Campaign/Orte/Morgenroth/Bilder/Morgenroth City Council.jpg"
-    },
-    {
-      "basename": "Gesetze von Morgenroth",
-      "path": "Campaign/Orte/Morgenroth/Gesetze von Morgenroth.md"
     }
   ],
   "omittedPaths": [],

@@ -28,5 +28,13 @@ Die Hauptquest [[Das Erwachen der Schatten]] dreht sich um die zunehmende Bedroh
 ### [[Morgenroth]]
 
 #### Ohne Ansehen
+- [[Misstrauen am Kai]]
+- [[Ein ungewöhnliches Haustier]]
+- [[Die schüchterne Schmiedegesellin]]
+- [[Zimtschnecken Nachschub]]
 #### Mit mittlerem Ansehen
+- [[Steuerverzug]]
+- [[Die Goldküsten-Ausgrabung]]
+- [[Untergrundturnier]]
 #### Mit hohem Ansehen
+- 
