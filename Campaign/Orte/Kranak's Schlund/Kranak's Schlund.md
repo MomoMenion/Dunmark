@@ -15,5 +15,3 @@ Ein wichtiger Bestandteil der Siedlung ist der **Fluss**, der sich durch die Sch
 
 ![[Kranak's Schlund Bild.png]]
 ![[Kranak's Schlund Dorf.png]]
-
-![[Kranak's Schlund Alternative.png]]

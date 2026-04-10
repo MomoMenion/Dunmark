@@ -31,11 +31,12 @@ Die Session beginnt mit dem Kennenlernen der Gruppe auf See, einem ersten Kampf 
 ---
 ## Wichtige Quests
 
-| Quest | Priorität | Ansehen |
-|---|---|---|
-| [[Misstrauen am Kai]] | Haupt-Hook Session 1 | +10 |
-| [[Zimtschnecken Nachschub]] | Optional, leichter Einstieg | +10 |
-| [[Die schüchterne Schmiedegesellin]] | Optional, Rollenspiel-lastig | +10 |
+| Quest                                | Priorität                    | Ansehen |
+| ------------------------------------ | ---------------------------- | ------- |
+| [[Misstrauen am Kai]]                | Haupt-Hook Session 1         | +10     |
+| [[Zimtschnecken Nachschub]]          | Optional, leichter Einstieg  | +10     |
+| [[Die schüchterne Schmiedegesellin]] | Optional, Rollenspiel-lastig | +10     |
+| [[Ein ungewöhnliches Haustier]]      | Optional, Kurzweilig, witzig | +5      |
 
 ---
 ## Wichtige Charaktere
@@ -53,41 +54,31 @@ Erster offizieller Kontakt in der Stadt. Müde, erfahren, sehnt sich nach Ruhest
 Gibt den Spielern den ersten Auftrag – wirkt dabei eher erleichtert als autoritär.
 
 **[[Martha]]**
-Herzliche Tavernenwirtin, guter erster sicherer Hafen für die Spieler. 
+Herzliche Wirtin der Bäckerei und Taverne [[Zum Bierbäcker]], guter erster sicherer Hafen für die Spieler. 
 Kann als Gerüchtequelle dienen. Erwähnt beiläufig, dass sie nichts von Tom gehört hat.
 
 **[[Gorn Hammerfall]]**
 Ruhiger, handwerklich versierter Schmied. Erwähnt das seltsame Tiefling-Mädchen 
 ([[Zira]]), das ihn beobachtet – erster Hook für [[Die schüchterne Schmiedegesellin]].
 
----
+**[[Borgo]]**
+Stiller Besitzer der Taverne [[Zur Ankerkette]].
+Eine Riesenkrabbe treibt gerade ihr Unwesen dort.
 
+---
 ## Locations
 
 ### Bekannte Locations
-- **Hafen** – Ankunft, Hafenwache, erster Eindruck der Stadt
-- **[[Zum Bierbäcker]]** – Unterkunft der Spieler, Martha, Gerüchte
-- **[[Die Schmiede]]** – Gorn Hammerfall, Zira
-
-### Empfohlene neue Locations für Session 1
-
-#### Der Basar
-Ein einfacher, offener Marktplatz nahe dem Hafen. Laut, bunt, leicht chaotisch.
-Händler mit Grundausrüstung, Lebensmitteln und günstigen Waren.
-Gut geeignet für erste Stadteindrücke und zufällige NPC-Begegnungen.
-
-*Händler:*
-- **Yusra** – Eine ältere Frau mit scharfer Zunge und einem Stand voller Kräuter, 
-  Öle und Verbände. Verkauft Heiltränke (Tier 1) und Grundversorgung. 
-  Misstrauisch gegenüber Fremden, aber fair im Preis.
-- **Dennik der Händler** – Ein junger, aufgedrehter Verkäufer mit Hang zu Übertreibungen. 
-  Verkauft Reiseausrüstung, Seile, Fackeln, Rationen. 
-  Kennt jeden in der Stadt und redet gern.
+- Hafen – Ankunft, Hafenwache, erster Eindruck der Stadt
+- [[Zum Bierbäcker]] – Unterkunft der Spieler, Martha, Gerüchte
+- [[Die Schmiede]] – Gorn Hammerfall, Zira
+- [[Basar|Der Basar]]
 
 **Die Hafentreppe**
 Eine breite Steintreppe, die vom Hafen in die Stadt führt. 
 Treffpunkt für Neuankömmlinge und Tagelöhner. 
 Gut geeignet für die erste Begegnung mit [[Hauptmann Kaelen]].
+	*"Kommt später in die [[Kaserne]] am [[Ratsplatz]], wenn ihr eure Habe bezogen und euch ein wenig von [[Martha]] habt stärken lassen."*
 
 ---
 

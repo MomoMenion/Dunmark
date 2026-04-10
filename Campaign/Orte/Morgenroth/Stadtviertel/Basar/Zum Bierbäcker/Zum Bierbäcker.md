@@ -1,3 +1,4 @@
+#Ort
 Das Innere der Taverne duftet nach frischem Gebäck und Gerstensaft. Rustikal und gemütlich. Auf der linken Seite des Raumes befindet sich die Bäckerei, auf der rechten Seite eine Theke mit Bierausschank.
 
 ![[Zum Bierbäcker Bild.png]]
