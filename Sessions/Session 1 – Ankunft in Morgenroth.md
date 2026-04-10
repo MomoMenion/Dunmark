@@ -7,24 +7,24 @@ Die Session beginnt mit dem Kennenlernen der Gruppe auf See, einem ersten Kampf 
 ## Geplanter Ablauf
 
 ### 1. [[Prolog auf See]]
-- Kapitän Elias Richter lädt die Spieler in seine Kajüte ein – Rum, Vorstellungsrunde
+- [[Kapitän Elias Richter]] lädt die Spieler in seine Kajüte ein – Rum, Vorstellungsrunde
 - Sturm zieht auf → [[Auge der Tiefsee]] greift an
 - Ziel: Gruppe zusammenschweißen, ersten Kampf gemeinsam bestehen
 
 ### 2. [[Prolog an Land]]
 - Hafenwache prüft die Spieler (Waffen, magische Gegenstände, religiöse Symbole)
-- Einführung der Regeln Morgenroths – klar und unmissverständlich
+- Einführung der Regeln [[Morgenroth]]s – klar und unmissverständlich
 - Spieler erhalten Unterkunft für drei Nächte, werden aufgefordert sich nützlich zu machen
 - Erste Eindrücke der Stadt
 
 ### 3. Erste Erkundung
 - Spieler können die Stadt frei erkunden
-- Erste NPC-Begegnungen: Martha, Gorn Hammerfall, Händler
+- Erste NPC-Begegnungen: [[Martha]], [[Gorn Hammerfall]], Händler
 - Erster Quest-Hook: [[Hauptmann Kaelen]] spricht die Spieler wegen [[Misstrauen am Kai]] an
 
 ### 4. Erster Quest-Hook
 - [[Misstrauen am Kai]] als natürlicher erster Auftrag
-- Führt die Spieler ans Ansehen-System heran (+10 Ansehen bei Erfolg)
+- Führt die Spieler ans [[Ansehen|Ansehen-System]] heran (+10 Ansehen bei Erfolg)
 - Optional: [[Zimtschnecken Nachschub]] oder [[Die schüchterne Schmiedegesellin]] als 
   leichtere Parallele
 
@@ -93,13 +93,13 @@ Gut geeignet für die erste Begegnung mit [[Hauptmann Kaelen]].
 
 ## Notizen für den Spielleiter
 
-- Das **Regelwerk Morgenroths** von Anfang an klar kommunizieren – 
+- Die [[Gesetze von Morgenroth]] von Anfang an klar kommunizieren – 
   die Spieler werden es testen
-- Das **[[Ansehen|Ansehen-System]]** ruhig erst nach dem ersten abgeschlossenen Auftrag einführen, 
+- Das [[Ansehen|Ansehen-System]] ruhig erst nach dem ersten abgeschlossenen Auftrag einführen, 
   nicht sofort erklären
-- **[[Martha]]** kann als sozialer Anker dienen – ein warmer, sicherer Ort 
+- [[Martha]] kann als sozialer Anker dienen – ein warmer, sicherer Ort 
   für die Gruppe zwischen den Quests
-- Die Stadt sollte sich **lebendig** anfühlen: Händler rufen, Kinder laufen, 
+- Die Stadt sollte sich *lebendig* anfühlen: Händler rufen, Kinder laufen, 
   Wachen patrouillieren – auch wenn es keine spielbaren NPCs sind
 - Nicht zu viel auf einmal – Session 1 soll die Welt einführen, 
   nicht überfordern

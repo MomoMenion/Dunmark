@@ -3,7 +3,6 @@ Alchemie erlaubt es den Spielern, mächtige Tränke, Gifte Sund Wurfgeschosse he
 Das System ist in **5 Tiers** unterteilt, die sich in Komplexität und Wirkung unterscheiden.
 
 ---
-
 ## Voraussetzungen
 
 Um alchemistische Items herzustellen, benötigt man:
