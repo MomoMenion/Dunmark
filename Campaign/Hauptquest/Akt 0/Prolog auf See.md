@@ -21,4 +21,7 @@ Mitten im Chaos des Sturms erhebt sich eine gewaltige, schuppige Gestalt aus der
 - Mast muss gesichert werden
 - NPCs müssen gerettet werden
 - [[Auge der Tiefsee]] muss in die Flucht geschlagen werden
-	- Harpunen-Balliste
+- Harpunen-Balliste
+	- 2D10 + 2 Schaden
+	- STR 14 Check zum Laden
+	- DEX Angriffswurf + 5

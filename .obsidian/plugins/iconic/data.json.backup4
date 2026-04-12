@@ -29,50 +29,7 @@
   },
   "appIcons": {},
   "tabIcons": {},
-  "fileIcons": {
-    "Campaign/Gegner": {
-      "icon": "lucide-sword",
-      "unsynced": [
-        "a367c263d6ab2c0f",
-        "aab882fe6180ce9d"
-      ]
-    },
-    "Campaign/Hauptquest": {
-      "icon": "lucide-crown",
-      "unsynced": [
-        "a367c263d6ab2c0f",
-        "aab882fe6180ce9d"
-      ]
-    },
-    "Campaign/Items": {
-      "icon": "lucide-axe",
-      "unsynced": [
-        "a367c263d6ab2c0f",
-        "aab882fe6180ce9d"
-      ]
-    },
-    "Campaign/Maps": {
-      "icon": "lucide-map",
-      "unsynced": [
-        "a367c263d6ab2c0f",
-        "aab882fe6180ce9d"
-      ]
-    },
-    "Campaign/Orte": {
-      "icon": "lucide-house",
-      "unsynced": [
-        "a367c263d6ab2c0f",
-        "aab882fe6180ce9d"
-      ]
-    },
-    "Campaign/Systeme": {
-      "icon": "lucide-settings",
-      "unsynced": [
-        "a367c263d6ab2c0f",
-        "aab882fe6180ce9d"
-      ]
-    }
-  },
+  "fileIcons": {},
   "bookmarkIcons": {},
   "tagIcons": {},
   "propertyIcons": {},

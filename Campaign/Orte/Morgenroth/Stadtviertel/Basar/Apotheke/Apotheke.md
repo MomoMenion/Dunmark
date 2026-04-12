@@ -9,3 +9,5 @@ und viel weiß. Er verkauft Heilmittel, Verbände und einfache alchemistische Gr
 - Verbandsmaterial – 5 Gold
 - Alchemiebeutel Tier 1 – 25 Gold
 - Rezeptbuch: Grundlagen – 50 Gold
+
+![[Apotheke Bild.jpg]]

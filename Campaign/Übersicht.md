@@ -4,8 +4,19 @@
 Die Geschichte der menschlichen Besiedlung von [[Dunmark]] begann mit Siedlern, die vor über einem Jahrhundert aus **Faerûn** flohen. Ihr Traum war es, ein neues, friedliches Reich zu gründen, fernab des dominierenden Einflusses des Imperiums. Sie gründeten die Stadt [[Morgenroth]], ein Symbol ihrer Hoffnung und ihres Neuanfangs.
 
 Aus den Erfahrungen **Faerûns** heraus, wo Religion und Magie oft als Ursprung von Ungleichgewicht, Konflikten und Kriegen galten, wurden diese in [[Morgenroth]] verbannt. Im Laufe der Zeit hat sich [[Morgenroth]] zu einem Leuchtturm der Toleranz entwickelt und zieht vereinzelt auch Angehörige anderer Völker an, die sich dem friedlichen Leben anschließen wollen.
-## Beziehungen zu den Völkern Dunmarks
+## Völker
 Die Menschen von [[Morgenroth]] pflegen friedliche Beziehungen sowohl zu den **Orks** in den [[Trommelberge|Trommelbergen]] als auch zu den **Merfolk** in [[Laghan]]. Lediglich von den **Drows** gibt es bisher nur Gerüchte – Begegnungen mit ihnen sind noch ausgeblieben.
+### Menschen
+- [[Soltan]]
+- [[Marika & Marik]]
+- [[Martha]]
+- [[Hauptmann Kaelen]]
+- [[Lysander]]
+### Orks
+- [[Grommash Narbenfaust]]
+- [[Urga]]
+### Merfolk
+- [[Melantes]]
 # Quests
 ## Hauptquest
 Die Hauptquest [[Das Erwachen der Schatten]] dreht sich um die zunehmende Bedrohung durch die **Drows** und das drohende Erwachen des **uralten Drow-Fürsten** [[Malakar]].
@@ -22,7 +33,6 @@ Die Hauptquest [[Das Erwachen der Schatten]] dreht sich um die zunehmende Bedroh
 - [[Allianz mit dem Merfolk]]
 - [[Allianz mit den Orks]]
 - [[Infiltration der Drow-Konklave]]
-
 ## Nebenquests
 
 ### [[Morgenroth]]
@@ -38,3 +48,8 @@ Die Hauptquest [[Das Erwachen der Schatten]] dreht sich um die zunehmende Bedroh
 - [[Untergrundturnier]]
 #### Mit hohem Ansehen
 - 
+### [[Flussheim]]
+- [[Das Auge der Sonne]]
+- [[Steuerverzug]]
+### [[Kranak's Schlund]]
+### [[Laghan]]

@@ -1,16 +1,180 @@
 {
   "recentFiles": [
     {
+      "basename": "Schattenmagier",
+      "path": "Campaign/Gegner/Schattenmagier.md"
+    },
+    {
+      "basename": "Schattenjäger",
+      "path": "Campaign/Gegner/Schattenjäger.md"
+    },
+    {
+      "basename": "Doppelgänger",
+      "path": "Campaign/Gegner/Doppelgänger.md"
+    },
+    {
+      "basename": "Auge der Tiefsee",
+      "path": "Campaign/Gegner/Auge der Tiefsee.md"
+    },
+    {
+      "basename": "Schreckliche Hyäne",
+      "path": "Campaign/Gegner/Schreckliche Hyäne.md"
+    },
+    {
+      "basename": "Borgo",
+      "path": "Campaign/Orte/Morgenroth/Charaktere/Borgo.md"
+    },
+    {
+      "basename": "Brak",
+      "path": "Campaign/Orte/Kranak's Schlund/Charaktere/Brak.md"
+    },
+    {
+      "basename": "Aldric",
+      "path": "Campaign/Orte/Morgenroth/Charaktere/Aldric.md"
+    },
+    {
+      "basename": "Kapitänin Seraphina",
+      "path": "Campaign/Orte/Goldküste/Charaktere/Kapitänin Seraphina.md"
+    },
+    {
+      "basename": "Grimgul der Grinser",
+      "path": "Campaign/Orte/Morgenroth/Stadtviertel/Flussviertel/Der Schwarzmarkt/Charaktere/Grimgul der Grinser.md"
+    },
+    {
+      "basename": "Gorn Hammerfall",
+      "path": "Campaign/Orte/Morgenroth/Charaktere/Gorn Hammerfall.md"
+    },
+    {
+      "basename": "Farina",
+      "path": "Campaign/Orte/Flussheim/Charaktere/Farina.md"
+    },
+    {
+      "basename": "Dunmark",
+      "path": "Campaign/Orte/Dunmark.md"
+    },
+    {
+      "basename": "Der Rat von Morgenroth",
+      "path": "Campaign/Orte/Morgenroth/Gilden/Der Rat von Morgenroth.md"
+    },
+    {
+      "basename": "Die Schmiede",
+      "path": "Campaign/Orte/Morgenroth/Stadtviertel/Flussviertel/Die Schmiede/Die Schmiede.md"
+    },
+    {
+      "basename": "Badehaus",
+      "path": "Campaign/Orte/Morgenroth/Stadtviertel/Flussviertel/Badehaus/Badehaus.md"
+    },
+    {
+      "basename": "Ausgrabungsstätte",
+      "path": "Campaign/Orte/Goldküste/Ausgrabungsstätte.md"
+    },
+    {
+      "basename": "Aschefestung",
+      "path": "Campaign/Orte/Aschefestung/Aschefestung.md"
+    },
+    {
+      "basename": "Apotheke",
+      "path": "Campaign/Orte/Morgenroth/Stadtviertel/Basar/Apotheke/Apotheke.md"
+    },
+    {
+      "basename": "Urga",
+      "path": "Campaign/Orte/Kranak's Schlund/Charaktere/Urga.md"
+    },
+    {
+      "basename": "Soltan",
+      "path": "Campaign/Orte/Morgenroth/Charaktere/Soltan.md"
+    },
+    {
+      "basename": "Rostus der Schrotthändler",
+      "path": "Campaign/Orte/Morgenroth/Stadtviertel/Flussviertel/Der Schwarzmarkt/Charaktere/Rostus der Schrotthändler.md"
+    },
+    {
+      "basename": "Roric",
+      "path": "Campaign/Orte/Flussheim/Charaktere/Roric.md"
+    },
+    {
+      "basename": "Martha",
+      "path": "Campaign/Orte/Morgenroth/Charaktere/Martha.md"
+    },
+    {
+      "basename": "Marika & Marik",
+      "path": "Campaign/Orte/Morgenroth/Charaktere/Marika & Marik.md"
+    },
+    {
+      "basename": "Kela die Flüsternde",
+      "path": "Campaign/Orte/Morgenroth/Stadtviertel/Flussviertel/Der Schwarzmarkt/Charaktere/Kela die Flüsternde.md"
+    },
+    {
+      "basename": "Lyra die Kräuterhexe",
+      "path": "Campaign/Orte/Morgenroth/Stadtviertel/Flussviertel/Der Schwarzmarkt/Charaktere/Lyra die Kräuterhexe.md"
+    },
+    {
+      "basename": "Lysander",
+      "path": "Campaign/Orte/Morgenroth/Charaktere/Lysander.md"
+    },
+    {
+      "basename": "Imam Ka'thar",
+      "path": "Campaign/Orte/Flussheim/Charaktere/Imam Ka'thar.md"
+    },
+    {
+      "basename": "Hauptmann Kaelen",
+      "path": "Campaign/Orte/Morgenroth/Charaktere/Hauptmann Kaelen.md"
+    },
+    {
+      "basename": "Grung",
+      "path": "Campaign/Orte/Kranak's Schlund/Charaktere/Grung.md"
+    },
+    {
+      "basename": "Großadmiral",
+      "path": "Campaign/Orte/Morgenroth/Charaktere/Großadmiral.md"
+    },
+    {
+      "basename": "Grommash Narbenfaust",
+      "path": "Campaign/Orte/Kranak's Schlund/Charaktere/Grommash Narbenfaust.md"
+    },
+    {
+      "basename": "Vera",
+      "path": "Campaign/Orte/Morgenroth/Charaktere/Vera.md"
+    },
+    {
+      "basename": "Zimt-Oase",
+      "path": "Campaign/Orte/Zimt-Oase/Zimt-Oase.md"
+    },
+    {
+      "basename": "Trommelberge",
+      "path": "Campaign/Orte/Trommelberge.md"
+    },
+    {
+      "basename": "Alchemie",
+      "path": "Campaign/Systeme/Alchemie.md"
+    },
+    {
+      "basename": "Ansehen",
+      "path": "Campaign/Systeme/Ansehen.md"
+    },
+    {
+      "basename": "Schmieden",
+      "path": "Campaign/Systeme/Schmieden.md"
+    },
+    {
       "basename": "Übersicht",
       "path": "Campaign/Übersicht.md"
+    },
+    {
+      "basename": "Session 1 – Ankunft in Morgenroth",
+      "path": "Sessions/Session 1 – Ankunft in Morgenroth.md"
+    },
+    {
+      "basename": "Ein Zuhause in Morgenroth",
+      "path": "Campaign/Orte/Morgenroth/Stadtviertel/Ratsplatz/Quests/Ein Zuhause in Morgenroth.md"
     },
     {
       "basename": "Morgenroth",
       "path": "Campaign/Orte/Morgenroth/Morgenroth.md"
     },
     {
-      "basename": "Soltan",
-      "path": "Campaign/Orte/Morgenroth/Charaktere/Soltan.md"
+      "basename": "Gesetze von Morgenroth",
+      "path": "Campaign/Orte/Morgenroth/Gesetze von Morgenroth.md"
     },
     {
       "basename": "Handelsgilde",
@@ -21,184 +185,20 @@
       "path": "Campaign/Orte/Flussheim/Quests/Steuerverzug.md"
     },
     {
-      "basename": "Vermisste Karawanen",
-      "path": "Campaign/Hauptquest/Akt 1/Vermisste Karawanen.md"
-    },
-    {
-      "basename": "Das Auge der Sonne",
-      "path": "Campaign/Orte/Flussheim/Quests/Das Auge der Sonne.md"
-    },
-    {
-      "basename": "Session 1 – Ankunft in Morgenroth",
-      "path": "Sessions/Session 1 – Ankunft in Morgenroth.md"
-    },
-    {
-      "basename": "Misstrauen am Kai",
-      "path": "Campaign/Orte/Morgenroth/Stadtviertel/Hafen/Quests/Misstrauen am Kai.md"
-    },
-    {
-      "basename": "Ein ungewöhnliches Haustier",
-      "path": "Campaign/Orte/Morgenroth/Stadtviertel/Hafen/Quests/Ein ungewöhnliches Haustier.md"
-    },
-    {
-      "basename": "Dunmark",
-      "path": "Campaign/Orte/Dunmark.md"
-    },
-    {
-      "basename": "Gesetze von Morgenroth",
-      "path": "Campaign/Orte/Morgenroth/Gesetze von Morgenroth.md"
-    },
-    {
-      "basename": "Trommelberge",
-      "path": "Campaign/Orte/Trommelberge.md"
-    },
-    {
-      "basename": "Ratsplatz",
-      "path": "Campaign/Orte/Morgenroth/Stadtviertel/Ratsplatz/Ratsplatz.md"
-    },
-    {
-      "basename": "Kaserne",
-      "path": "Campaign/Orte/Morgenroth/Stadtviertel/Ratsplatz/Kaserne/Kaserne.md"
-    },
-    {
-      "basename": "Hauptmann Kaelen",
-      "path": "Campaign/Orte/Morgenroth/Charaktere/Hauptmann Kaelen.md"
-    },
-    {
-      "basename": "Hafen",
-      "path": "Campaign/Orte/Morgenroth/Stadtviertel/Hafen/Hafen.md"
-    },
-    {
-      "basename": "Großadmiral",
-      "path": "Campaign/Orte/Morgenroth/Charaktere/Großadmiral.md"
-    },
-    {
-      "basename": "Borgo",
-      "path": "Campaign/Orte/Morgenroth/Charaktere/Borgo.md"
-    },
-    {
-      "basename": "Zur Ankerkette",
-      "path": "Campaign/Orte/Morgenroth/Stadtviertel/Hafen/Zur Ankerkette/Zur Ankerkette.md"
-    },
-    {
-      "basename": "Die Schmiede",
-      "path": "Campaign/Orte/Morgenroth/Stadtviertel/Flussviertel/Die Schmiede/Die Schmiede.md"
-    },
-    {
-      "basename": "Das Erwachen der Schatten",
-      "path": "Campaign/Hauptquest/Das Erwachen der Schatten.md"
-    },
-    {
-      "basename": "Erkundung der Aschefestung",
-      "path": "Campaign/Hauptquest/Akt 2/Erkundung der Aschefestung.md"
-    },
-    {
-      "basename": "Die Goldküsten-Ausgrabung",
-      "path": "Campaign/Orte/Morgenroth/Gilden/Expeditionsgilde/Quests/Die Goldküsten-Ausgrabung.md"
-    },
-    {
-      "basename": "Die schüchterne Schmiedegesellin",
-      "path": "Campaign/Orte/Morgenroth/Stadtviertel/Flussviertel/Die Schmiede/Quests/Die schüchterne Schmiedegesellin.md"
-    },
-    {
-      "basename": "Infiltration der Drow-Konklave",
-      "path": "Campaign/Hauptquest/Akt 3/Infiltration der Drow-Konklave.md"
-    },
-    {
-      "basename": "Badehaus",
-      "path": "Campaign/Orte/Morgenroth/Stadtviertel/Flussviertel/Badehaus/Badehaus.md"
-    },
-    {
-      "basename": "Wüstengeier",
-      "path": "Campaign/Gegner/Wüstengeier.md"
-    },
-    {
-      "basename": "Brak",
-      "path": "Campaign/Orte/Kranak's Schlund/Charaktere/Brak.md"
-    },
-    {
-      "basename": "Grung",
-      "path": "Campaign/Orte/Kranak's Schlund/Charaktere/Grung.md"
-    },
-    {
-      "basename": "Urga",
-      "path": "Campaign/Orte/Kranak's Schlund/Charaktere/Urga.md"
-    },
-    {
-      "basename": "Grommash Narbenfaust",
-      "path": "Campaign/Orte/Kranak's Schlund/Charaktere/Grommash Narbenfaust.md"
-    },
-    {
-      "basename": "Urga Bild",
-      "path": "Campaign/Orte/Kranak's Schlund/Bilder/Urga Bild.png"
-    },
-    {
-      "basename": "Kranak's Schlund",
-      "path": "Campaign/Orte/Kranak's Schlund/Kranak's Schlund.md"
-    },
-    {
-      "basename": "Orkische Angelegenheiten",
-      "path": "Campaign/Hauptquest/Akt 1/Orkische Angelegenheiten.md"
-    },
-    {
-      "basename": "Marika & Marik",
-      "path": "Campaign/Orte/Morgenroth/Charaktere/Marika & Marik.md"
-    },
-    {
-      "basename": "Lysander",
-      "path": "Campaign/Orte/Morgenroth/Charaktere/Lysander.md"
-    },
-    {
-      "basename": "Aldric",
-      "path": "Campaign/Orte/Morgenroth/Charaktere/Aldric.md"
-    },
-    {
-      "basename": "Apotheke",
-      "path": "Campaign/Orte/Morgenroth/Stadtviertel/Basar/Apotheke/Apotheke.md"
-    },
-    {
-      "basename": "Zira",
-      "path": "Campaign/Orte/Morgenroth/Charaktere/Zira.md"
-    },
-    {
-      "basename": "Martha",
-      "path": "Campaign/Orte/Morgenroth/Charaktere/Martha.md"
-    },
-    {
-      "basename": "Gorn Hammerfall",
-      "path": "Campaign/Orte/Morgenroth/Charaktere/Gorn Hammerfall.md"
+      "basename": "Zum Bierbäcker",
+      "path": "Campaign/Orte/Morgenroth/Stadtviertel/Basar/Zum Bierbäcker/Zum Bierbäcker.md"
     },
     {
       "basename": "Basar",
       "path": "Campaign/Orte/Morgenroth/Stadtviertel/Basar/Basar.md"
     },
     {
-      "basename": "Der Rat von Morgenroth",
-      "path": "Campaign/Orte/Morgenroth/Gilden/Der Rat von Morgenroth.md"
+      "basename": "Vermisste Karawanen",
+      "path": "Campaign/Hauptquest/Akt 1/Vermisste Karawanen.md"
     },
     {
-      "basename": "Zimtschnecken Nachschub",
-      "path": "Campaign/Orte/Morgenroth/Stadtviertel/Basar/Zum Bierbäcker/Quests/Zimtschnecken Nachschub.md"
-    },
-    {
-      "basename": "Untergrundturnier",
-      "path": "Campaign/Orte/Morgenroth/Stadtviertel/Flussviertel/Der Schwarzmarkt/Quests/Untergrundturnier.md"
-    },
-    {
-      "basename": "Schwarzmarkt",
-      "path": "Campaign/Orte/Morgenroth/Stadtviertel/Flussviertel/Der Schwarzmarkt/Schwarzmarkt.md"
-    },
-    {
-      "basename": "Zum Bierbäcker",
-      "path": "Campaign/Orte/Morgenroth/Stadtviertel/Basar/Zum Bierbäcker/Zum Bierbäcker.md"
-    },
-    {
-      "basename": "Flussviertel",
-      "path": "Campaign/Orte/Morgenroth/Stadtviertel/Flussviertel/Flussviertel.md"
-    },
-    {
-      "basename": "Morgenroth River",
-      "path": "Campaign/Orte/Morgenroth/Bilder/Morgenroth River.jpg"
+      "basename": "Zum Bierbäcker Bild",
+      "path": "Campaign/Orte/Morgenroth/Stadtviertel/Basar/Zum Bierbäcker/Bilder/Zum Bierbäcker Bild.png"
     }
   ],
   "omittedPaths": [],

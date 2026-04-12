@@ -12,4 +12,4 @@ Er manipuliert seine Drow-Anhänger aus seinem Gefängnis heraus und nutzt seine
 - [[Das Erwachen der Schatten]]
 - [[Erkundung der Aschefestung]]
 
-![[Malakar Bild.png]]
+![[Malakar Bild.jpeg]]

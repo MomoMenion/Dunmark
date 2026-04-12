@@ -42,28 +42,22 @@ Die Session beginnt mit dem Kennenlernen der Gruppe auf See, einem ersten Kampf 
 ## Wichtige Charaktere
 
 **[[Kapitän Elias Richter]]**
-Erster NPC den die Spieler kennenlernen. Warmherzig, erfahren, liebt seinen Rum. 
-Dient als Vater-Figur des Prologs.
+Erster NPC den die Spieler kennenlernen. Warmherzig, erfahren, liebt seinen Rum. Dient als Vater-Figur des Prologs.
 
 **Hafenwache (namenlos)**
-Streng, sachlich, unfreundlich – aber nicht böse. Vermittelt sofort die Regeln der Stadt.
-Ton: Bürokratisch und unmissverständlich.
+Streng, sachlich, unfreundlich – aber nicht böse. Vermittelt sofort die Regeln der Stadt. Ton: Bürokratisch und unmissverständlich.
 
 **[[Hauptmann Kaelen]]**
-Erster offizieller Kontakt in der Stadt. Müde, erfahren, sehnt sich nach Ruhestand. 
-Gibt den Spielern den ersten Auftrag – wirkt dabei eher erleichtert als autoritär.
+Erster offizieller Kontakt in der Stadt. Müde, erfahren, sehnt sich nach Ruhestand. Gibt den Spielern den ersten Auftrag – wirkt dabei eher erleichtert als autoritär.
 
 **[[Martha]]**
-Herzliche Wirtin der Bäckerei und Taverne [[Zum Bierbäcker]], guter erster sicherer Hafen für die Spieler. 
-Kann als Gerüchtequelle dienen. Erwähnt beiläufig, dass sie nichts von Tom gehört hat.
+Herzliche Wirtin der Bäckerei und Taverne [[Zum Bierbäcker]], guter erster sicherer Hafen für die Spieler. Kann als Gerüchtequelle dienen. Erwähnt beiläufig, dass sie nichts von Tom gehört hat.
 
 **[[Gorn Hammerfall]]**
-Ruhiger, handwerklich versierter Schmied. Erwähnt das seltsame Tiefling-Mädchen 
-([[Zira]]), das ihn beobachtet – erster Hook für [[Die schüchterne Schmiedegesellin]].
+Ruhiger, handwerklich versierter Schmied. Erwähnt das seltsame Tiefling-Mädchen ([[Zira]]), das ihn beobachtet – erster Hook für [[Die schüchterne Schmiedegesellin]].
 
 **[[Borgo]]**
-Stiller Besitzer der Taverne [[Zur Ankerkette]].
-Eine Riesenkrabbe treibt gerade ihr Unwesen dort.
+Stiller Besitzer der Taverne [[Zur Ankerkette]]. Eine Riesenkrabbe treibt gerade ihr Unwesen dort.
 
 ---
 ## Locations
@@ -76,21 +70,13 @@ Eine Riesenkrabbe treibt gerade ihr Unwesen dort.
 - [[Zur Ankerkette]]
 
 **Die Hafentreppe**
-Eine breite Steintreppe, die vom Hafen in die Stadt führt. 
-Treffpunkt für Neuankömmlinge und Tagelöhner. 
-Gut geeignet für die erste Begegnung mit [[Hauptmann Kaelen]].
+Eine breite Steintreppe, die vom Hafen in die Stadt führt. Treffpunkt für Neuankömmlinge und Tagelöhner. Gut geeignet für die erste Begegnung mit [[Hauptmann Kaelen]].
 	*"Kommt später in die [[Kaserne]] am [[Ratsplatz]], wenn ihr eure Habe bezogen und euch ein wenig von [[Martha]] habt stärken lassen."*
 
 ---
 ## Notizen für den Spielleiter
 
-- Die [[Gesetze von Morgenroth]] von Anfang an klar kommunizieren – 
-  die Spieler werden es testen
-- Das [[Ansehen|Ansehen-System]] ruhig erst nach dem ersten abgeschlossenen Auftrag einführen, 
-  nicht sofort erklären
-- [[Martha]] kann als sozialer Anker dienen – ein warmer, sicherer Ort 
-  für die Gruppe zwischen den Quests
-- Die Stadt sollte sich *lebendig* anfühlen: Händler rufen, Kinder laufen, 
-  Wachen patrouillieren – auch wenn es keine spielbaren NPCs sind
-- Nicht zu viel auf einmal – Session 1 soll die Welt einführen, 
-  nicht überfordern
+- Die [[Gesetze von Morgenroth]] von Anfang an klar kommunizieren –   die Spieler werden es testen.
+- Das [[Ansehen|Ansehen-System]] ruhig erst nach dem ersten abgeschlossenen Auftrag einführen, nicht sofort erklären
+- [[Martha]] kann als sozialer Anker dienen – ein warmer, sicherer Ort für die Gruppe zwischen den Quests
+- Die Stadt sollte sich *lebendig* anfühlen: Händler rufen, Kinder laufen, Wachen patrouillieren – auch wenn es keine spielbaren NPCs sind - Nicht zu viel auf einmal – Session 1 soll die Welt einführen, nicht überfordern
