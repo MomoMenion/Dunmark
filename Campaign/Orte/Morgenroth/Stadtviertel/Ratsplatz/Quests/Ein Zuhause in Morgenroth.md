@@ -33,7 +33,6 @@ Ein solides, zweistöckiges Lehmhaus mit Steinfundament im [[Flussviertel]], nur
 **Kapazität:** 4 Personen.
 
 ---
-
 ### Das Farmhaus
 *Stadtrand am Fluss / 25 Ansehen erforderlich*
 

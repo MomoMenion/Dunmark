@@ -1,0 +1,18 @@
+- [ ] [[Nora Stein]] Bild
+- [ ] [[Aldric]] Bild
+- [ ] [[Großadmiral]] Bild
+- [ ] [[Borgo]] Bild
+- [ ] [[Zur Ankerkette]] Bild
+- [ ] [[Kaserne]] Bild
+- [ ] [[Badehaus]] Bild
+- [ ] [[Flussviertel]] Beschreibungstext
+- [ ] [[Laghan]] Bild
+- [ ] [[Zimt-Oase Bild.png]] aktualisieren
+- [ ] [[Handelsgilde Eingangshalle.png]] aktualisieren
+- [ ] [[Expeditionsgilde Eingangshalle.png]] aktualisieren
+- [ ] [[Ein Zuhause in Morgenroth]] Bilder für die Häuser
+	- [ ] Hafenhaus
+	- [ ] Handwerkshaus
+	- [ ] Farmhaus
+	- [ ] Herrenhaus
+	- [ ] Villa

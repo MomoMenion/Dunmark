@@ -25,8 +25,7 @@ Die Session beginnt mit dem Kennenlernen der Gruppe auf See, einem ersten Kampf 
 ### 4. Erster Quest-Hook
 - [[Misstrauen am Kai]] als natürlicher erster Auftrag
 - Führt die Spieler ans [[Ansehen|Ansehen-System]] heran (+10 Ansehen bei Erfolg)
-- Optional: [[Zimtschnecken Nachschub]] oder [[Die schüchterne Schmiedegesellin]] als 
-  leichtere Parallele
+- Optional: [[Zimtschnecken Nachschub]] oder [[Die schüchterne Schmiedegesellin]] oder [[Ein ungewöhnliches Haustier]] als leichtere Parallele
 
 ---
 ## Wichtige Quests
@@ -44,7 +43,7 @@ Die Session beginnt mit dem Kennenlernen der Gruppe auf See, einem ersten Kampf 
 **[[Kapitän Elias Richter]]**
 Erster NPC den die Spieler kennenlernen. Warmherzig, erfahren, liebt seinen Rum. Dient als Vater-Figur des Prologs.
 
-**Hafenwache (namenlos)**
+**Hafenwache [[Nora Stein]]**
 Streng, sachlich, unfreundlich – aber nicht böse. Vermittelt sofort die Regeln der Stadt. Ton: Bürokratisch und unmissverständlich.
 
 **[[Hauptmann Kaelen]]**

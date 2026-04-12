@@ -3,7 +3,7 @@ Die ersten Strahlen der Morgensonne brechen durch den Nebel, der über dem Wasse
 
 Vor euch erhebt sich die Stadt: eine Ansammlung von Lehmhäusern mit steinernen Fundamenten. In der Mitte thront das stolze Rathaus, von dem aus eine Flagge im Wind weht – das Symbol Morgenroths, ein goldener Sonnenaufgang über blauen Wellen.
 
-Doch bevor ihr den Fuß auf festen Boden setzen könnt, legt sich ein Schatten über eure Erleichterung. Drei uniformierte Wachen in dunklen Mänteln und mit silbernen Abzeichen – dem Zeichen der **Hafenwache** – warten bereits am Kai. Ihre Blicke sind wachsam, aber nicht feindselig. Einer von ihnen, eine Frau mit strenger Miene und einem Klemmbrett in der Hand, hebt die Stimme:
+Doch bevor ihr den Fuß auf festen Boden setzen könnt, legt sich ein Schatten über eure Erleichterung. Drei uniformierte Wachen in dunklen Mänteln und mit silbernen Abzeichen – dem Zeichen der **Hafenwache** – warten bereits am Kai. [[Nora Stein]], eine Frau mit strenger Miene und einem Klemmbrett in der Hand, hebt die Stimme:
 
 _„Willkommen in Morgenroth. Bevor ihr die Stadt betreten dürft, müssen wir euch prüfen. Hier gelten Regeln, die anderswo nicht bekannt sind: Keine Magie. Keine religiösen Symbole. Keine Gewalt. Wer diese Regeln bricht, wird nicht geduldet.“_
 
