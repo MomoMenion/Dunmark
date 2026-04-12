@@ -1,6 +1,50 @@
 {
   "recentFiles": [
     {
+      "basename": "Prolog auf See",
+      "path": "Campaign/Hauptquest/Akt 0/Prolog auf See/Prolog auf See.md"
+    },
+    {
+      "basename": "Zimtschnecken Nachschub",
+      "path": "Campaign/Orte/Morgenroth/Stadtviertel/Basar/Zum Bierbäcker/Quests/Zimtschnecken Nachschub/Zimtschnecken Nachschub.md"
+    },
+    {
+      "basename": "Kampf unter Deck",
+      "path": "Campaign/Orte/Morgenroth/Stadtviertel/Hafen/Quests/Misstrauen am Kai/Kampf unter Deck.md"
+    },
+    {
+      "basename": "Misstrauen am Kai",
+      "path": "Campaign/Orte/Morgenroth/Stadtviertel/Hafen/Quests/Misstrauen am Kai/Misstrauen am Kai.md"
+    },
+    {
+      "basename": "Elara",
+      "path": "Campaign/Orte/Morgenroth/Charaktere/Elara.md"
+    },
+    {
+      "basename": "Doppelgänger",
+      "path": "Campaign/Gegner/Doppelgänger.md"
+    },
+    {
+      "basename": "Seekampf",
+      "path": "Campaign/Hauptquest/Akt 0/Prolog auf See/Seekampf.md"
+    },
+    {
+      "basename": "Session 1 – Ankunft in Morgenroth",
+      "path": "Sessions/Session 1 – Ankunft in Morgenroth.md"
+    },
+    {
+      "basename": "Das Erwachen der Schatten",
+      "path": "Campaign/Hauptquest/Das Erwachen der Schatten.md"
+    },
+    {
+      "basename": "Prolog an Land",
+      "path": "Campaign/Hauptquest/Akt 0/Prolog an Land.md"
+    },
+    {
+      "basename": "Auge der Tiefsee",
+      "path": "Campaign/Gegner/Auge der Tiefsee.md"
+    },
+    {
       "basename": "ToDo",
       "path": "ToDo/ToDo.md"
     },
@@ -9,28 +53,12 @@
       "path": "Campaign/Orte/Morgenroth/Charaktere/Nora Stein.md"
     },
     {
-      "basename": "Prolog an Land",
-      "path": "Campaign/Hauptquest/Akt 0/Prolog an Land.md"
-    },
-    {
       "basename": "Gesetze von Morgenroth",
       "path": "Campaign/Orte/Morgenroth/Gesetze von Morgenroth.md"
     },
     {
-      "basename": "Session 1 – Ankunft in Morgenroth",
-      "path": "Sessions/Session 1 – Ankunft in Morgenroth.md"
-    },
-    {
       "basename": "Ein ungewöhnliches Haustier",
       "path": "Campaign/Orte/Morgenroth/Stadtviertel/Hafen/Quests/Ein ungewöhnliches Haustier.md"
-    },
-    {
-      "basename": "Zimtschnecken Nachschub",
-      "path": "Campaign/Orte/Morgenroth/Stadtviertel/Basar/Zum Bierbäcker/Quests/Zimtschnecken Nachschub.md"
-    },
-    {
-      "basename": "Misstrauen am Kai",
-      "path": "Campaign/Orte/Morgenroth/Stadtviertel/Hafen/Quests/Misstrauen am Kai.md"
     },
     {
       "basename": "Lysander",
@@ -171,34 +199,6 @@
     {
       "basename": "Die Schmiede",
       "path": "Campaign/Orte/Morgenroth/Stadtviertel/Flussviertel/Die Schmiede/Die Schmiede.md"
-    },
-    {
-      "basename": "Kela die Flüsternde",
-      "path": "Campaign/Orte/Morgenroth/Stadtviertel/Flussviertel/Der Schwarzmarkt/Charaktere/Kela die Flüsternde.md"
-    },
-    {
-      "basename": "Badehaus",
-      "path": "Campaign/Orte/Morgenroth/Stadtviertel/Flussviertel/Badehaus/Badehaus.md"
-    },
-    {
-      "basename": "Schattenmagier",
-      "path": "Campaign/Gegner/Schattenmagier.md"
-    },
-    {
-      "basename": "Schattenjäger",
-      "path": "Campaign/Gegner/Schattenjäger.md"
-    },
-    {
-      "basename": "Doppelgänger",
-      "path": "Campaign/Gegner/Doppelgänger.md"
-    },
-    {
-      "basename": "Auge der Tiefsee",
-      "path": "Campaign/Gegner/Auge der Tiefsee.md"
-    },
-    {
-      "basename": "Schreckliche Hyäne",
-      "path": "Campaign/Gegner/Schreckliche Hyäne.md"
     }
   ],
   "omittedPaths": [],

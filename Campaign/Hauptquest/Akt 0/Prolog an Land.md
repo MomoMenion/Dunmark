@@ -1,3 +1,4 @@
+#Quest
 #### Intro
 Die ersten Strahlen der Morgensonne brechen durch den Nebel, der über dem Wasser liegt, und enthüllen langsam die Umrisse der Küste. Euer Schiff, gezeichnet von den Narben des Sturms und des Kampfes, gleitet mit letzter Kraft in die ruhigen Gewässer des Hafens von [[Morgenroth]]. Die Luft ist erfüllt vom Geruch von Salz, Teer und dem Rauch der ersten Feuer, die an Land entfacht werden.
 

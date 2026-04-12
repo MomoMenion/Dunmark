@@ -1,3 +1,4 @@
+#Quest
 #### Intro
 Eure Reise beginnt an Bord eines Handelsschiffes, das Kurs auf [[Morgenroth]] nimmt. Jeder von euch hat seine eigenen Gründe, dem fernen **Faerûn** den Rücken zu kehren und in das unbekannte [[Dunmark]] aufzubrechen. Ihr kennt euch noch nicht, doch die Reise hat euch alle an diesen einen Ort gebracht.
 
@@ -15,13 +16,4 @@ Ein Toast auf die Reise, die uns hierher geführt hat, und auf die Abenteuer, di
 Ein peitschender, unheilvoller Wind zieht auf, der Himmel verfärbt sich von einem klaren Blau in ein bedrohliches, graues Gewitter. Der Kapitän geht nach draußen und schreit Befehle in den Sturm, als die Wellen zu Bergen anwachsen, die euer Schiff mit einer ungeheuren Wucht hin und her werfen.
 
 Ein lautes Knarzen dröhnt durch die Nacht. Ein gewaltiger Riss bildet sich im Hauptmast, und das Holz knirscht und ächzt unter der Last des Sturms.
-#### Das [[Auge der Tiefsee]]
-Mitten im Chaos des Sturms erhebt sich eine gewaltige, schuppige Gestalt aus der Tiefe. Es ist eine **Seeschlange**, deren Kopf so groß wie eine Kutsche ist. Sie umkreist das Schiff und nutzt die tosenden Wellen, um sich immer wieder aus dem Wasser zu katapultieren. Ihr Maul ist mit messerscharfen Zähnen gespickt, und sie visiert den kaputten Mast eures Schiffes als ihr nächstes Opfer an.
-#### Der erste Kampf
-- Mast muss gesichert werden
-- NPCs müssen gerettet werden
-- [[Auge der Tiefsee]] muss in die Flucht geschlagen werden
-- Harpunen-Balliste
-	- 2D10 + 2 Schaden
-	- STR 14 Check zum Laden
-	- DEX Angriffswurf + 5
+### Der erste [[Seekampf]]!
