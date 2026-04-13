@@ -1,9 +1,9 @@
-- [ ] [[Nora Stein]] Bild
-- [ ] [[Aldric]] Bild
+- [x] [[Nora Stein]] Bild
+- [x] [[Aldric]] Bild
 - [ ] [[Großadmiral]] Bild
-- [ ] [[Borgo]] Bild
-- [ ] [[Zur Ankerkette]] Bild
-- [ ] [[Kaserne]] Bild
+- [x] [[Borgo]] Bild
+- [x] [[Zur Ankerkette]] Bild
+- [x] [[Kaserne]] Bild
 - [ ] [[Badehaus]] Bild
 - [ ] [[Flussviertel]] Beschreibungstext
 - [ ] [[Laghan]] Bild

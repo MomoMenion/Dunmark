@@ -1,6 +1,6 @@
 #Ort
 
-Die Apotheke liegt etwas abseits des Basars, erkennbar am getrockneten Kräuterbündel 
+Die Apotheke liegt etwas abseits des [[Basar]]s, erkennbar am getrockneten Kräuterbündel 
 über der Tür. Der Besitzer [[Aldric]] ist ein ruhiger, präziser Mann, der wenig redet 
 und viel weiß. Er verkauft Heilmittel, Verbände und einfache alchemistische Grundzutaten.
 ### Handel

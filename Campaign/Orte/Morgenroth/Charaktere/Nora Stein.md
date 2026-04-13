@@ -13,4 +13,4 @@ Im Privaten ist sie ruhiger als ihr Beruf vermuten lässt – sie züchtet Kakte
 Nora ist der erste Mensch, mit dem die Spieler in [[Morgenroth]] sprechen. Sie vermittelt die Regeln der Stadt klar und unmissverständlich, konfisziert bei Bedarf verbotene Gegenstände und gibt den Spielern 
 ihre ersten drei Nächte Unterkunft in der Taverne [[Zum Bierbäcker]].
 
-![[Nora Stein Bild.png]]
+![[NoraSteinBild.jpg]]

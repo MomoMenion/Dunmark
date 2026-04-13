@@ -1,6 +1,66 @@
 {
   "recentFiles": [
     {
+      "basename": "ToDo",
+      "path": "ToDo/ToDo.md"
+    },
+    {
+      "basename": "Nora Stein",
+      "path": "Campaign/Orte/Morgenroth/Charaktere/Nora Stein.md"
+    },
+    {
+      "basename": "Borgo",
+      "path": "Campaign/Orte/Morgenroth/Charaktere/Borgo.md"
+    },
+    {
+      "basename": "Zur Ankerkette",
+      "path": "Campaign/Orte/Morgenroth/Stadtviertel/Hafen/Zur Ankerkette/Zur Ankerkette.md"
+    },
+    {
+      "basename": "Hafen",
+      "path": "Campaign/Orte/Morgenroth/Stadtviertel/Hafen/Hafen.md"
+    },
+    {
+      "basename": "Morgenroth",
+      "path": "Campaign/Orte/Morgenroth/Morgenroth.md"
+    },
+    {
+      "basename": "Aldric",
+      "path": "Campaign/Orte/Morgenroth/Charaktere/Aldric.md"
+    },
+    {
+      "basename": "Großadmiral",
+      "path": "Campaign/Orte/Morgenroth/Charaktere/Großadmiral.md"
+    },
+    {
+      "basename": "Handelsgilde Eingangshalle",
+      "path": "Campaign/Orte/Morgenroth/Gilden/Bilder/Handelsgilde Eingangshalle.png"
+    },
+    {
+      "basename": "Handelsgilde",
+      "path": "Campaign/Orte/Morgenroth/Gilden/Handelsgilde.md"
+    },
+    {
+      "basename": "Flussviertel",
+      "path": "Campaign/Orte/Morgenroth/Stadtviertel/Flussviertel/Flussviertel.md"
+    },
+    {
+      "basename": "Kaserne",
+      "path": "Campaign/Orte/Morgenroth/Stadtviertel/Ratsplatz/Kaserne/Kaserne.md"
+    },
+    {
+      "basename": "Hauptmann Kaelen",
+      "path": "Campaign/Orte/Morgenroth/Charaktere/Hauptmann Kaelen.md"
+    },
+    {
+      "basename": "Apotheke",
+      "path": "Campaign/Orte/Morgenroth/Stadtviertel/Basar/Apotheke/Apotheke.md"
+    },
+    {
+      "basename": "Basar",
+      "path": "Campaign/Orte/Morgenroth/Stadtviertel/Basar/Basar.md"
+    },
+    {
       "basename": "Prolog auf See",
       "path": "Campaign/Hauptquest/Akt 0/Prolog auf See/Prolog auf See.md"
     },
@@ -45,14 +105,6 @@
       "path": "Campaign/Gegner/Auge der Tiefsee.md"
     },
     {
-      "basename": "ToDo",
-      "path": "ToDo/ToDo.md"
-    },
-    {
-      "basename": "Nora Stein",
-      "path": "Campaign/Orte/Morgenroth/Charaktere/Nora Stein.md"
-    },
-    {
       "basename": "Gesetze von Morgenroth",
       "path": "Campaign/Orte/Morgenroth/Gesetze von Morgenroth.md"
     },
@@ -73,20 +125,8 @@
       "path": "Campaign/Orte/Morgenroth/Stadtviertel/Ratsplatz/Quests/Ein Zuhause in Morgenroth.md"
     },
     {
-      "basename": "Kaserne",
-      "path": "Campaign/Orte/Morgenroth/Stadtviertel/Ratsplatz/Kaserne/Kaserne.md"
-    },
-    {
       "basename": "Ratsplatz",
       "path": "Campaign/Orte/Morgenroth/Stadtviertel/Ratsplatz/Ratsplatz.md"
-    },
-    {
-      "basename": "Hafen",
-      "path": "Campaign/Orte/Morgenroth/Stadtviertel/Hafen/Hafen.md"
-    },
-    {
-      "basename": "Flussviertel",
-      "path": "Campaign/Orte/Morgenroth/Stadtviertel/Flussviertel/Flussviertel.md"
     },
     {
       "basename": "Übersicht",
@@ -125,32 +165,12 @@
       "path": "Campaign/Orte/Morgenroth/Gilden/Bilder/Expeditionsgilde Eingangshalle.png"
     },
     {
-      "basename": "Handelsgilde Eingangshalle",
-      "path": "Campaign/Orte/Morgenroth/Gilden/Bilder/Handelsgilde Eingangshalle.png"
-    },
-    {
       "basename": "Rathaus Bild",
       "path": "Campaign/Orte/Morgenroth/Gilden/Bilder/Rathaus Bild.jpg"
     },
     {
-      "basename": "Hauptmann Kaelen",
-      "path": "Campaign/Orte/Morgenroth/Charaktere/Hauptmann Kaelen.md"
-    },
-    {
-      "basename": "Großadmiral",
-      "path": "Campaign/Orte/Morgenroth/Charaktere/Großadmiral.md"
-    },
-    {
       "basename": "Gorn Hammerfall",
       "path": "Campaign/Orte/Morgenroth/Charaktere/Gorn Hammerfall.md"
-    },
-    {
-      "basename": "Borgo",
-      "path": "Campaign/Orte/Morgenroth/Charaktere/Borgo.md"
-    },
-    {
-      "basename": "Aldric",
-      "path": "Campaign/Orte/Morgenroth/Charaktere/Aldric.md"
     },
     {
       "basename": "Morgenroth Market",
@@ -179,26 +199,6 @@
     {
       "basename": "Schwarzmarkt",
       "path": "Campaign/Orte/Morgenroth/Stadtviertel/Flussviertel/Der Schwarzmarkt/Schwarzmarkt.md"
-    },
-    {
-      "basename": "Zimt-Gnome",
-      "path": "Campaign/Gegner/Zimt-Gnome.md"
-    },
-    {
-      "basename": "Zimt-Oase",
-      "path": "Campaign/Orte/Zimt-Oase/Zimt-Oase.md"
-    },
-    {
-      "basename": "Zum Bierbäcker",
-      "path": "Campaign/Orte/Morgenroth/Stadtviertel/Basar/Zum Bierbäcker/Zum Bierbäcker.md"
-    },
-    {
-      "basename": "Laghan",
-      "path": "Campaign/Orte/Laghan/Laghan.md"
-    },
-    {
-      "basename": "Die Schmiede",
-      "path": "Campaign/Orte/Morgenroth/Stadtviertel/Flussviertel/Die Schmiede/Die Schmiede.md"
     }
   ],
   "omittedPaths": [],
