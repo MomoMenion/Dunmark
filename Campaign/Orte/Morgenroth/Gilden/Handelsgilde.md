@@ -5,4 +5,4 @@ Die [[Handelsgilde]] von [[Morgenroth]] ist das wirtschaftliche Rückgrat der St
 - [[Vermisste Karawanen]]
 - [[Steuerverzug]]
 
-![[Handelsgilde Eingangshalle.png]]
+![[Handelsgilde Bild.jpg]]

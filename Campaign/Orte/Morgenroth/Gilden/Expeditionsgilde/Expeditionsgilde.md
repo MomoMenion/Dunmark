@@ -4,4 +4,4 @@ Die Expeditionsgilde ist eine Gruppe von Entdeckern, Gelehrten und Söldnern, di
 #### Verfügbare Quests
 - [[Die Goldküsten-Ausgrabung]]
 
-![[Expeditionsgilde Eingangshalle.png]]
+![[ExpeditionsgildeBild.jpg]]

@@ -1,8 +1,52 @@
 {
   "recentFiles": [
     {
+      "basename": "Ein Zuhause in Morgenroth",
+      "path": "Campaign/Orte/Morgenroth/Stadtviertel/Ratsplatz/Quests/Ein Zuhause in Morgenroth.md"
+    },
+    {
       "basename": "ToDo",
       "path": "ToDo/ToDo.md"
+    },
+    {
+      "basename": "ExpeditionsgildeBild",
+      "path": "Campaign/Orte/Morgenroth/Gilden/Bilder/ExpeditionsgildeBild.jpg"
+    },
+    {
+      "basename": "Expeditionsgilde",
+      "path": "Campaign/Orte/Morgenroth/Gilden/Expeditionsgilde/Expeditionsgilde.md"
+    },
+    {
+      "basename": "Handelsgilde",
+      "path": "Campaign/Orte/Morgenroth/Gilden/Handelsgilde.md"
+    },
+    {
+      "basename": "Rathaus Bild",
+      "path": "Campaign/Orte/Morgenroth/Gilden/Bilder/Rathaus Bild.jpg"
+    },
+    {
+      "basename": "Laghan",
+      "path": "Campaign/Orte/Laghan/Laghan.md"
+    },
+    {
+      "basename": "Badehaus",
+      "path": "Campaign/Orte/Morgenroth/Stadtviertel/Flussviertel/Badehaus/Badehaus.md"
+    },
+    {
+      "basename": "Großadmiral",
+      "path": "Campaign/Orte/Morgenroth/Charaktere/Großadmiral.md"
+    },
+    {
+      "basename": "Zimt-Oase",
+      "path": "Campaign/Orte/Zimt-Oase/Zimt-Oase.md"
+    },
+    {
+      "basename": "Zimt-Oase Bild",
+      "path": "Campaign/Orte/Zimt-Oase/Bilder/Zimt-Oase Bild.jpg"
+    },
+    {
+      "basename": "Flussviertel",
+      "path": "Campaign/Orte/Morgenroth/Stadtviertel/Flussviertel/Flussviertel.md"
     },
     {
       "basename": "Nora Stein",
@@ -27,22 +71,6 @@
     {
       "basename": "Aldric",
       "path": "Campaign/Orte/Morgenroth/Charaktere/Aldric.md"
-    },
-    {
-      "basename": "Großadmiral",
-      "path": "Campaign/Orte/Morgenroth/Charaktere/Großadmiral.md"
-    },
-    {
-      "basename": "Handelsgilde Eingangshalle",
-      "path": "Campaign/Orte/Morgenroth/Gilden/Bilder/Handelsgilde Eingangshalle.png"
-    },
-    {
-      "basename": "Handelsgilde",
-      "path": "Campaign/Orte/Morgenroth/Gilden/Handelsgilde.md"
-    },
-    {
-      "basename": "Flussviertel",
-      "path": "Campaign/Orte/Morgenroth/Stadtviertel/Flussviertel/Flussviertel.md"
     },
     {
       "basename": "Kaserne",
@@ -121,10 +149,6 @@
       "path": "Campaign/Orte/Morgenroth/Gilden/Der Rat von Morgenroth.md"
     },
     {
-      "basename": "Ein Zuhause in Morgenroth",
-      "path": "Campaign/Orte/Morgenroth/Stadtviertel/Ratsplatz/Quests/Ein Zuhause in Morgenroth.md"
-    },
-    {
       "basename": "Ratsplatz",
       "path": "Campaign/Orte/Morgenroth/Stadtviertel/Ratsplatz/Ratsplatz.md"
     },
@@ -161,14 +185,6 @@
       "path": "Campaign/Orte/Morgenroth/Charaktere/Zira.md"
     },
     {
-      "basename": "Expeditionsgilde Eingangshalle",
-      "path": "Campaign/Orte/Morgenroth/Gilden/Bilder/Expeditionsgilde Eingangshalle.png"
-    },
-    {
-      "basename": "Rathaus Bild",
-      "path": "Campaign/Orte/Morgenroth/Gilden/Bilder/Rathaus Bild.jpg"
-    },
-    {
       "basename": "Gorn Hammerfall",
       "path": "Campaign/Orte/Morgenroth/Charaktere/Gorn Hammerfall.md"
     },
@@ -183,22 +199,6 @@
     {
       "basename": "Morgenroth River",
       "path": "Campaign/Orte/Morgenroth/Bilder/Morgenroth River.jpg"
-    },
-    {
-      "basename": "Morgenroth Harbour",
-      "path": "Campaign/Orte/Morgenroth/Bilder/Morgenroth Harbour.jpg"
-    },
-    {
-      "basename": "Morgenroth City Council",
-      "path": "Campaign/Orte/Morgenroth/Bilder/Morgenroth City Council.jpg"
-    },
-    {
-      "basename": "Sandspinne",
-      "path": "Campaign/Gegner/Sandspinne.md"
-    },
-    {
-      "basename": "Schwarzmarkt",
-      "path": "Campaign/Orte/Morgenroth/Stadtviertel/Flussviertel/Der Schwarzmarkt/Schwarzmarkt.md"
     }
   ],
   "omittedPaths": [],

@@ -11,6 +11,8 @@ entdeckt.
 Er folgt den Spielern nicht aus Loyalität. Er folgt ihnen, weil sie ihm regelmäßig 
 Eintopf geben und weil die Welt da draußen interessanter ist als [[Borgo|Borgos]] Theke.
 
+![[Großadmiral.jpg]]
+
 ---
 
 **Größe** Klein
