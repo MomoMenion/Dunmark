@@ -5,6 +5,10 @@
       "path": "Campaign/Orte/Morgenroth/Stadtviertel/Ratsplatz/Quests/Ein Zuhause in Morgenroth.md"
     },
     {
+      "basename": "Ratsplatz",
+      "path": "Campaign/Orte/Morgenroth/Stadtviertel/Ratsplatz/Ratsplatz.md"
+    },
+    {
       "basename": "ToDo",
       "path": "ToDo/ToDo.md"
     },
@@ -147,10 +151,6 @@
     {
       "basename": "Der Rat von Morgenroth",
       "path": "Campaign/Orte/Morgenroth/Gilden/Der Rat von Morgenroth.md"
-    },
-    {
-      "basename": "Ratsplatz",
-      "path": "Campaign/Orte/Morgenroth/Stadtviertel/Ratsplatz/Ratsplatz.md"
     },
     {
       "basename": "Übersicht",

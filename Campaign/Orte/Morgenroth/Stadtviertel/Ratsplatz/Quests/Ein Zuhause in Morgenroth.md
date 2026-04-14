@@ -11,6 +11,8 @@ Wer sich in [[Morgenroth]] niederlassen möchte, kann beim [[Der Rat von Morgenr
 
 Ein windschiefes, kleines Holzhaus direkt am Kai. Die Fensterläden hängen schief, das Dach hat eine fragwürdige Beziehung zum Regen und der Vorbesitzer ist unter ungeklärten Umständen verschwunden. Dennoch: Es hat vier Wände und eine Tür.
 
+![[HafenhausBild.jpg]]
+
 **Erwerb:** Kostenlos – aber der Rat erwartet eine Gegenleistung.
 
 **Quest:** Das Haus steht seit Wochen leer weil sich niemand traut es zu betreten. Die Nachbarn berichten von seltsamen Geräuschen in der Nacht. Die Spieler sollen herausfinden was dahintersteckt und das Haus "bewohnbar" machen.
@@ -26,6 +28,8 @@ Ein windschiefes, kleines Holzhaus direkt am Kai. Die Fensterläden hängen schi
 Ein solides, zweistöckiges Lehmhaus mit Steinfundament im [[Flussviertel]], nur wenige Gassen von 
 [[Die Schmiede|der Schmiede]] entfernt. Im Erdgeschoss befindet sich ein kleiner Werkraum, der sich als Alchemie-Labor, Lager oder Werkstatt nutzen lässt. Im Obergeschoss zwei einfache Schlafräume.
 
+![[Handwerkshaus.jpg]]
+
 **Preis:** 500 Gold
 
 **Besonderheit:** Der Werkraum gilt als ausgestattete Esse – Spieler können hier Tier 1-2 Items aus dem [[Schmieden|Schmiedesystem]] oder [[Alchemie|Alchemiesystem]] herstellen ohne externe Ressourcen zu benötigen.
@@ -37,6 +41,8 @@ Ein solides, zweistöckiges Lehmhaus mit Steinfundament im [[Flussviertel]], nur
 *Stadtrand am Fluss / 25 Ansehen erforderlich*
 
 Ein geräumiges Farmhaus mit kleinem Grundstück direkt am Fluss, kurz vor den Toren [[Morgenroth|Morgenroths]]. Rustikaler Charme, frische Luft und genug Platz um ein kleines Gemüsebeet, einen Stall oder sogar ein bescheidenes Lager zu betreiben. Weit genug von der Stadt um diskret zu sein, nah genug um schnell dort zu sein.
+
+![[FarmhausBild.jpg]]
 
 **Preis:** 750 Gold
 
