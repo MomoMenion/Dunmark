@@ -57,6 +57,8 @@ auf dem Farmhaus regenerieren die Spieler einen zusätzlichen **Trefferwürfel**
 
 Ein gepflegtes, zweistöckiges Stadthaus am Rande des [[Basar|Basars]]. Hohe Decken, breite Fenster und ein kleiner Innenhof. Das Haus hat eine Geschichte – mehrere wohlhabende Händler haben hier gewohnt – und die Einrichtung zeugt noch davon. Es ist der Ort, an dem man Gäste empfängt.
 
+![[Herrenhaus.jpg]]
+
 **Preis:** 2000 Gold
 
 **Besonderheit:** Der Ruf des Hauses verleiht den Spielern +1 auf alle Charisma-Proben gegenüber Kaufleuten und Gildenvertretern in [[Morgenroth]], sofern sie das Treffen im Herrenhaus stattfinden lassen.
@@ -68,6 +70,8 @@ Ein gepflegtes, zweistöckiges Stadthaus am Rande des [[Basar|Basars]]. Hohe Dec
 *Ratsplatz / 100 Ansehen + Morgenroth-Abzeichen erforderlich*
 
 Eine weitläufige, steinerne Villa in Sichtweite des Ratshauses. Mehrere Schlafzimmer, ein repräsentativer Empfangssaal, ein Weinkeller und ein ummauerter Garten. Nur wenige Bürger [[Morgenroth|Morgenroths]] haben je die Schwelle einer solchen Villa betreten. Wer hier wohnt, gehört zur Stadt.
+
+![[VillaBild.jpg]]
 
 **Preis:** 5000 Gold
 

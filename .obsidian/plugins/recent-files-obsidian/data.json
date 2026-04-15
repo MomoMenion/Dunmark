@@ -1,16 +1,108 @@
 {
   "recentFiles": [
     {
+      "basename": "Aldric Bild",
+      "path": "Campaign/Orte/Morgenroth/Charaktere/Bilder/Aldric Bild.jpg"
+    },
+    {
+      "basename": "BorgoBild",
+      "path": "Campaign/Orte/Morgenroth/Charaktere/Bilder/BorgoBild.jpg"
+    },
+    {
+      "basename": "Elara Mädchen",
+      "path": "Campaign/Orte/Morgenroth/Charaktere/Bilder/Elara Mädchen.jpg"
+    },
+    {
+      "basename": "GornHammerfallBild",
+      "path": "Campaign/Orte/Morgenroth/Charaktere/Bilder/GornHammerfallBild.jpg"
+    },
+    {
+      "basename": "Großadmiral",
+      "path": "Campaign/Orte/Morgenroth/Charaktere/Bilder/Großadmiral.jpg"
+    },
+    {
+      "basename": "HauptmannKaelenBild",
+      "path": "Campaign/Orte/Morgenroth/Charaktere/Bilder/HauptmannKaelenBild.jpg"
+    },
+    {
+      "basename": "Lysander Bild",
+      "path": "Campaign/Orte/Morgenroth/Charaktere/Bilder/Lysander Bild.png"
+    },
+    {
+      "basename": "MarikaMarikBild",
+      "path": "Campaign/Orte/Morgenroth/Charaktere/Bilder/MarikaMarikBild.jpg"
+    },
+    {
+      "basename": "Martha Bild",
+      "path": "Campaign/Orte/Morgenroth/Charaktere/Bilder/Martha Bild.jpg"
+    },
+    {
+      "basename": "NoraSteinBild",
+      "path": "Campaign/Orte/Morgenroth/Charaktere/Bilder/NoraSteinBild.jpg"
+    },
+    {
+      "basename": "Soltan Bild",
+      "path": "Campaign/Orte/Morgenroth/Charaktere/Bilder/Soltan Bild.png"
+    },
+    {
+      "basename": "Zira Bild",
+      "path": "Campaign/Orte/Morgenroth/Charaktere/Bilder/Zira Bild.jpg"
+    },
+    {
+      "basename": "Marika & Marik",
+      "path": "Campaign/Orte/Morgenroth/Charaktere/Marika & Marik.md"
+    },
+    {
+      "basename": "Hauptmann Kaelen",
+      "path": "Campaign/Orte/Morgenroth/Charaktere/Hauptmann Kaelen.md"
+    },
+    {
+      "basename": "Gorn Hammerfall",
+      "path": "Campaign/Orte/Morgenroth/Charaktere/Gorn Hammerfall.md"
+    },
+    {
+      "basename": "Lysander",
+      "path": "Campaign/Orte/Morgenroth/Charaktere/Lysander.md"
+    },
+    {
+      "basename": "Vera",
+      "path": "Campaign/Orte/Morgenroth/Charaktere/Vera.md"
+    },
+    {
+      "basename": "Nora Stein",
+      "path": "Campaign/Orte/Morgenroth/Charaktere/Nora Stein.md"
+    },
+    {
+      "basename": "Elara",
+      "path": "Campaign/Orte/Morgenroth/Charaktere/Elara.md"
+    },
+    {
+      "basename": "Borgo",
+      "path": "Campaign/Orte/Morgenroth/Charaktere/Borgo.md"
+    },
+    {
+      "basename": "Aldric",
+      "path": "Campaign/Orte/Morgenroth/Charaktere/Aldric.md"
+    },
+    {
+      "basename": "Martha",
+      "path": "Campaign/Orte/Morgenroth/Charaktere/Martha.md"
+    },
+    {
+      "basename": "Vera Bild",
+      "path": "Campaign/Orte/Morgenroth/Charaktere/Bilder/Vera Bild.jpg"
+    },
+    {
+      "basename": "ToDo",
+      "path": "ToDo/ToDo.md"
+    },
+    {
       "basename": "Ein Zuhause in Morgenroth",
       "path": "Campaign/Orte/Morgenroth/Stadtviertel/Ratsplatz/Quests/Ein Zuhause in Morgenroth.md"
     },
     {
       "basename": "Ratsplatz",
       "path": "Campaign/Orte/Morgenroth/Stadtviertel/Ratsplatz/Ratsplatz.md"
-    },
-    {
-      "basename": "ToDo",
-      "path": "ToDo/ToDo.md"
     },
     {
       "basename": "ExpeditionsgildeBild",
@@ -53,14 +145,6 @@
       "path": "Campaign/Orte/Morgenroth/Stadtviertel/Flussviertel/Flussviertel.md"
     },
     {
-      "basename": "Nora Stein",
-      "path": "Campaign/Orte/Morgenroth/Charaktere/Nora Stein.md"
-    },
-    {
-      "basename": "Borgo",
-      "path": "Campaign/Orte/Morgenroth/Charaktere/Borgo.md"
-    },
-    {
       "basename": "Zur Ankerkette",
       "path": "Campaign/Orte/Morgenroth/Stadtviertel/Hafen/Zur Ankerkette/Zur Ankerkette.md"
     },
@@ -73,16 +157,8 @@
       "path": "Campaign/Orte/Morgenroth/Morgenroth.md"
     },
     {
-      "basename": "Aldric",
-      "path": "Campaign/Orte/Morgenroth/Charaktere/Aldric.md"
-    },
-    {
       "basename": "Kaserne",
       "path": "Campaign/Orte/Morgenroth/Stadtviertel/Ratsplatz/Kaserne/Kaserne.md"
-    },
-    {
-      "basename": "Hauptmann Kaelen",
-      "path": "Campaign/Orte/Morgenroth/Charaktere/Hauptmann Kaelen.md"
     },
     {
       "basename": "Apotheke",
@@ -109,10 +185,6 @@
       "path": "Campaign/Orte/Morgenroth/Stadtviertel/Hafen/Quests/Misstrauen am Kai/Misstrauen am Kai.md"
     },
     {
-      "basename": "Elara",
-      "path": "Campaign/Orte/Morgenroth/Charaktere/Elara.md"
-    },
-    {
       "basename": "Doppelgänger",
       "path": "Campaign/Gegner/Doppelgänger.md"
     },
@@ -127,78 +199,6 @@
     {
       "basename": "Das Erwachen der Schatten",
       "path": "Campaign/Hauptquest/Das Erwachen der Schatten.md"
-    },
-    {
-      "basename": "Prolog an Land",
-      "path": "Campaign/Hauptquest/Akt 0/Prolog an Land.md"
-    },
-    {
-      "basename": "Auge der Tiefsee",
-      "path": "Campaign/Gegner/Auge der Tiefsee.md"
-    },
-    {
-      "basename": "Gesetze von Morgenroth",
-      "path": "Campaign/Orte/Morgenroth/Gesetze von Morgenroth.md"
-    },
-    {
-      "basename": "Ein ungewöhnliches Haustier",
-      "path": "Campaign/Orte/Morgenroth/Stadtviertel/Hafen/Quests/Ein ungewöhnliches Haustier.md"
-    },
-    {
-      "basename": "Lysander",
-      "path": "Campaign/Orte/Morgenroth/Charaktere/Lysander.md"
-    },
-    {
-      "basename": "Der Rat von Morgenroth",
-      "path": "Campaign/Orte/Morgenroth/Gilden/Der Rat von Morgenroth.md"
-    },
-    {
-      "basename": "Übersicht",
-      "path": "Campaign/Übersicht.md"
-    },
-    {
-      "basename": "Trommelberge",
-      "path": "Campaign/Orte/Trommelberge.md"
-    },
-    {
-      "basename": "Dunmark",
-      "path": "Campaign/Orte/Dunmark.md"
-    },
-    {
-      "basename": "Marika & Marik",
-      "path": "Campaign/Orte/Morgenroth/Charaktere/Marika & Marik.md"
-    },
-    {
-      "basename": "Martha",
-      "path": "Campaign/Orte/Morgenroth/Charaktere/Martha.md"
-    },
-    {
-      "basename": "Soltan",
-      "path": "Campaign/Orte/Morgenroth/Charaktere/Soltan.md"
-    },
-    {
-      "basename": "Vera",
-      "path": "Campaign/Orte/Morgenroth/Charaktere/Vera.md"
-    },
-    {
-      "basename": "Zira",
-      "path": "Campaign/Orte/Morgenroth/Charaktere/Zira.md"
-    },
-    {
-      "basename": "Gorn Hammerfall",
-      "path": "Campaign/Orte/Morgenroth/Charaktere/Gorn Hammerfall.md"
-    },
-    {
-      "basename": "Morgenroth Market",
-      "path": "Campaign/Orte/Morgenroth/Bilder/Morgenroth Market.jpg"
-    },
-    {
-      "basename": "Morgenroth Basar",
-      "path": "Campaign/Orte/Morgenroth/Bilder/Morgenroth Basar.jpg"
-    },
-    {
-      "basename": "Morgenroth River",
-      "path": "Campaign/Orte/Morgenroth/Bilder/Morgenroth River.jpg"
     }
   ],
   "omittedPaths": [],

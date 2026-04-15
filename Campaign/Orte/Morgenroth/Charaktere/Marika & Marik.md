@@ -7,4 +7,4 @@
 #### Quests
 - [[Erkundung der Aschefestung]]
 
-![[Marika & Marik Bild.jpg]]
+![[MarikaMarikBild.jpg]]

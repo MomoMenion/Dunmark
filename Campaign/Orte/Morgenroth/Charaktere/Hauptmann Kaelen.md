@@ -8,4 +8,4 @@ Er ist außerdem Teil vom [[Der Rat von Morgenroth]].
 #### Quests
 - [[Misstrauen am Kai]]
 
-![[Hauptmann Kaelen Bild.png]]
+![[HauptmannKaelenBild.jpg]]

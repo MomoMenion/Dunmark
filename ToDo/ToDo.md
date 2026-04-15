@@ -11,9 +11,9 @@
 - [x] [[Zimt-Oase Bild.jpg]] aktualisieren
 - [x] [[Handelsgilde Bild.jpg]] aktualisieren
 - [x] [[ExpeditionsgildeBild.jpg]] aktualisieren
-- [ ] [[Ein Zuhause in Morgenroth]] Bilder für die Häuser
-	- [ ] Hafenhaus
-	- [ ] Handwerkshaus
-	- [ ] Farmhaus
-	- [ ] Herrenhaus
-	- [ ] Villa
+- [x] [[Ein Zuhause in Morgenroth]] Bilder für die Häuser
+	- [x] Hafenhaus
+	- [x] Handwerkshaus
+	- [x] Farmhaus
+	- [x] Herrenhaus
+	- [x] Villa
