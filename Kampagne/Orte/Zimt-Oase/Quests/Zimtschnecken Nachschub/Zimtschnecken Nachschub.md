@@ -8,7 +8,7 @@ Die Spieler sollen zur Zimtplantage in der Oase im Osten reisen und herausfinden
 ### Details
 Die Reise zur [[Zimt-Oase]] ist nicht allzu lang, aber die Hitze der Wüste und die erwartungsfrohen Rufe nach Zimtschnecken in [[Morgenroth]] könnten die Spieler antreiben. Bei ihrer Ankunft in der Oase finden sie nicht die üblichen Plantagenarbeiter, sondern eine Gruppe von etwa **vier bis sechs [[Zimt-Gnome]]n**. Sie sind klein, aber lebhaft und tragen bunte, etwas zu große Kleidung, die an Segeltücher erinnert, sowie Augenklappen und Bandanas. Überall auf der Plantage liegen angebissene Zimtstangen, und die Gnome selbst wirken übermäßig energiegeladen und haben Zimtstaub im Gesicht und in den Haaren. Sie sind tatsächlich **zimtsüchtig** und haben die Plantage für sich beansprucht, da sie der Meinung sind, dass *"so viel Glück nicht allein den Großen gehören darf!"*.
 
-**Erstbegegnung:** Die [[Zimt-Gnome]] sind nicht direkt aggressiv, aber extrem **territorial** und verteidigen ihren "Schatz" – den Zimt – mit Eifer. Ihre Kommunikation ist schnell, chaotisch und voller Wortspiele. Sie werden versuchen, die Spieler zu verwirren und abzulenken, anstatt direkt zu kämpfen, es sei denn, sie werden direkt bedroht oder angegriffen.
+**Erstbegegnung:** Die [[Zimt-Gnome]] sind nicht direkt aggressiv, aber extrem **territorial** und verteidigen ihren *Schatz* – den Zimt – mit Eifer. Ihre Kommunikation ist schnell, chaotisch und voller Wortspiele. Sie werden versuchen, die Spieler zu verwirren und abzulenken, anstatt direkt zu kämpfen, es sei denn, sie werden direkt bedroht oder angegriffen. Der Anführer ist [[Zimbo]].
 
 **Mögliche Lösungswege für die Spieler:**
 

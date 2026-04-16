@@ -1,6 +1,6 @@
 #Gegner
 
-*Mittelgroßes Monstrosität (Gestaltwandler), neutral böse, CR 2*
+*Mittelgroße Monstrosität (Gestaltwandler), neutral böse, CR 2*
 
 Diese Kreaturen sind perfekte Nachahmer, die darauf ausgelegt sind, sich in Gemeinschaften einzuschleichen. Ihre Gefahr liegt in ihrer Fähigkeit, Misstrauen und Chaos zu säen.
 

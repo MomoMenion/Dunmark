@@ -10,18 +10,15 @@ Die Session beginnt mit dem Kennenlernen der Gruppe auf See, einem ersten Kampf 
 - [[Kapitän Elias Richter]] lädt die Spieler in seine Kajüte ein – Rum, Vorstellungsrunde
 - Sturm zieht auf → [[Auge der Tiefsee]] greift an
 - Ziel: Gruppe zusammenschweißen, ersten Kampf gemeinsam bestehen
-
 ### 2. [[Prolog an Land]]
 - Hafenwache prüft die Spieler (Waffen, magische Gegenstände, religiöse Symbole)
 - Einführung der Regeln [[Morgenroth]]s – klar und unmissverständlich
 - Spieler erhalten Unterkunft für drei Nächte, werden aufgefordert sich nützlich zu machen
 - Erste Eindrücke der Stadt
-
 ### 3. Erste Erkundung
 - Spieler können die Stadt frei erkunden
 - Erste NPC-Begegnungen: [[Martha]], [[Gorn Hammerfall]], Händler
 - Erster Quest-Hook: [[Hauptmann Kaelen]] spricht die Spieler wegen [[Misstrauen am Kai]] an
-
 ### 4. Erster Quest-Hook
 - [[Misstrauen am Kai]] als natürlicher erster Auftrag
 - Führt die Spieler ans [[Ansehen|Ansehen-System]] heran (+10 Ansehen bei Erfolg)
