@@ -7,6 +7,7 @@ Händler rufen ihre Waren aus, Kinder laufen zwischen den Ständen umher und Neu
 ### Interessante Orte
 - Die Taverne und Bäckerei [[Zum Bierbäcker]]
 - Hauptquartier der [[Handelsgilde]]
+- [[Apotheke]]
 ### Quests am Marktplatz
 - [[Vermisste Karawanen]]
 - [[Zimtschnecken Nachschub]]

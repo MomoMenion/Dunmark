@@ -6,4 +6,4 @@
 #### Quests
 - [[Die Goldküsten-Ausgrabung]]
 
-![[Lysander Bild.png]]
+![[LysanderBild.jpg]]

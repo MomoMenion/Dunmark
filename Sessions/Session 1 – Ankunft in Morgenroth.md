@@ -62,11 +62,12 @@ Stiller Besitzer der Taverne [[Zur Ankerkette]]. Eine Riesenkrabbe treibt gerade
 ## Locations
 
 ### Bekannte Locations
-- [[Hafen]] – Ankunft, Hafenwache, erster Eindruck der Stadt
-- [[Zum Bierbäcker]] – Unterkunft der Spieler, Martha, Gerüchte
-- [[Die Schmiede]] – Gorn Hammerfall, Zira
-- [[Basar|Der Basar]]
-- [[Zur Ankerkette]]
+- [[Hafen]] – Ankunft, [[Nora Stein]], erster Eindruck der Stadt
+- [[Zum Bierbäcker]] – Unterkunft der Spieler, [[Martha]], Gerüchte
+- [[Die Schmiede]] – [[Gorn Hammerfall]], [[Zira]]
+- [[Basar|Der Basar]] - [[Apotheke]], [[Aldric]]
+- [[Zur Ankerkette]] - [[Borgo]], [[Großadmiral]]
+- [[Ratsplatz]] - [[Kaserne]]
 
 **Die Hafentreppe**
 Eine breite Steintreppe, die vom Hafen in die Stadt führt. Treffpunkt für Neuankömmlinge und Tagelöhner. Gut geeignet für die erste Begegnung mit [[Hauptmann Kaelen]].
