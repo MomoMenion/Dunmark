@@ -1,4 +1,4 @@
-# Übersicht
+#System
 
 Morgenroth wurde auf den Grundsätzen von Ordnung, Gleichheit und dem Verzicht auf 
 die Mächte gegründet, die in Faerûn so viel Leid gebracht haben. 

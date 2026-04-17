@@ -11,7 +11,7 @@ Er redet viel, laut und mit einer Selbstverständlichkeit, die an Größenwahn g
 #### Quests
 - [[Zimtschnecken Nachschub]] | [[Zimbo Dialoge]]
 
-![[Zimbo Bild.png]]
+![[Zimbo.jpg]]
 
 ---
 

@@ -1,60 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "Zimt-Gnome",
-      "path": "Kampagne/Gegner/Zimt-Gnome.md"
+      "basename": "Prolog an Land",
+      "path": "Kampagne/Hauptquest/Akt 0/Prolog an Land.md"
     },
     {
-      "basename": "Zimt-Oase",
-      "path": "Kampagne/Orte/Zimt-Oase/Zimt-Oase.md"
+      "basename": "Session 1 – Ankunft in Morgenroth",
+      "path": "Sessions/Session 1 – Ankunft in Morgenroth.md"
     },
     {
-      "basename": "Zimbo Dialoge",
-      "path": "Kampagne/Orte/Zimt-Oase/Quests/Zimtschnecken Nachschub/Zimbo Dialoge.md"
-    },
-    {
-      "basename": "Zimtschnecken Nachschub",
-      "path": "Kampagne/Orte/Zimt-Oase/Quests/Zimtschnecken Nachschub/Zimtschnecken Nachschub.md"
-    },
-    {
-      "basename": "Zum Bierbäcker",
-      "path": "Kampagne/Orte/Morgenroth/Stadtviertel/Basar/Zum Bierbäcker/Zum Bierbäcker.md"
-    },
-    {
-      "basename": "Zum Bierbäcker Bild",
-      "path": "Kampagne/Orte/Morgenroth/Stadtviertel/Basar/Zum Bierbäcker/Bilder/Zum Bierbäcker Bild.png"
-    },
-    {
-      "basename": "ToDo",
-      "path": "ToDo/ToDo.md"
-    },
-    {
-      "basename": "Zimbo",
-      "path": "Kampagne/Orte/Zimt-Oase/Charaktere/Zimbo.md"
-    },
-    {
-      "basename": "Gebannter Staub des Sehers",
-      "path": "Kampagne/Items/Gebannter Staub des Sehers.md"
-    },
-    {
-      "basename": "Wüstengeier",
-      "path": "Kampagne/Gegner/Wüstengeier.md"
-    },
-    {
-      "basename": "Schreckliche Hyäne",
-      "path": "Kampagne/Gegner/Schreckliche Hyäne.md"
-    },
-    {
-      "basename": "Sandspinne",
-      "path": "Kampagne/Gegner/Sandspinne.md"
+      "basename": "Auge der Tiefsee",
+      "path": "Kampagne/Gegner/Auge der Tiefsee.md"
     },
     {
       "basename": "Schattenjäger",
       "path": "Kampagne/Gegner/Schattenjäger.md"
     },
     {
-      "basename": "Schattenmagier",
-      "path": "Kampagne/Gegner/Schattenmagier.md"
+      "basename": "Sandspinne",
+      "path": "Kampagne/Gegner/Sandspinne.md"
     },
     {
       "basename": "Sandelementar",
@@ -69,8 +33,140 @@
       "path": "Kampagne/Gegner/Doppelgänger.md"
     },
     {
-      "basename": "Auge der Tiefsee",
-      "path": "Kampagne/Gegner/Auge der Tiefsee.md"
+      "basename": "Ein ungewöhnliches Haustier",
+      "path": "Kampagne/Orte/Morgenroth/Stadtviertel/Hafen/Quests/Ein ungewöhnliches Haustier.md"
+    },
+    {
+      "basename": "Übersicht",
+      "path": "Kampagne/Übersicht.md"
+    },
+    {
+      "basename": "Vermisste Karawanen",
+      "path": "Kampagne/Hauptquest/Akt 1/Vermisste Karawanen.md"
+    },
+    {
+      "basename": "ToDo",
+      "path": "ToDo/ToDo.md"
+    },
+    {
+      "basename": "Zimbo Dialoge",
+      "path": "Kampagne/Orte/Zimt-Oase/Quests/Zimtschnecken Nachschub/Zimbo Dialoge.md"
+    },
+    {
+      "basename": "Gesetze von Morgenroth",
+      "path": "Kampagne/Orte/Morgenroth/Gesetze von Morgenroth.md"
+    },
+    {
+      "basename": "Zimbo",
+      "path": "Kampagne/Orte/Zimt-Oase/Charaktere/Zimbo.md"
+    },
+    {
+      "basename": "Untergrundturnier",
+      "path": "Kampagne/Orte/Morgenroth/Stadtviertel/Flussviertel/Der Schwarzmarkt/Quests/Untergrundturnier.md"
+    },
+    {
+      "basename": "Handelsgilde",
+      "path": "Kampagne/Orte/Morgenroth/Gilden/Handelsgilde.md"
+    },
+    {
+      "basename": "Expeditionsgilde",
+      "path": "Kampagne/Orte/Morgenroth/Gilden/Expeditionsgilde/Expeditionsgilde.md"
+    },
+    {
+      "basename": "Ansehen",
+      "path": "Kampagne/Systeme/Ansehen.md"
+    },
+    {
+      "basename": "Schmieden",
+      "path": "Kampagne/Systeme/Schmieden.md"
+    },
+    {
+      "basename": "Alchemie",
+      "path": "Kampagne/Systeme/Alchemie.md"
+    },
+    {
+      "basename": "Hauptmann Kaelen",
+      "path": "Kampagne/Orte/Morgenroth/Charaktere/Hauptmann Kaelen.md"
+    },
+    {
+      "basename": "Signale in der Nacht",
+      "path": "Kampagne/Orte/Morgenroth/Stadtviertel/Hafen/Quests/Signale in der Nacht.md"
+    },
+    {
+      "basename": "Zur Ankerkette",
+      "path": "Kampagne/Orte/Morgenroth/Stadtviertel/Hafen/Zur Ankerkette/Zur Ankerkette.md"
+    },
+    {
+      "basename": "Hafen",
+      "path": "Kampagne/Orte/Morgenroth/Stadtviertel/Hafen/Hafen.md"
+    },
+    {
+      "basename": "Kela die Flüsternde",
+      "path": "Kampagne/Orte/Morgenroth/Stadtviertel/Flussviertel/Der Schwarzmarkt/Charaktere/Kela die Flüsternde.md"
+    },
+    {
+      "basename": "Das erloschene Licht",
+      "path": "Kampagne/Orte/Morgenroth/Stadtviertel/Hafen/Quests/Das erloschene Licht.md"
+    },
+    {
+      "basename": "Joran der Geizige",
+      "path": "Kampagne/Orte/Flussheim/Charaktere/Joran der Geizige.md"
+    },
+    {
+      "basename": "Emmerich",
+      "path": "Kampagne/Orte/Morgenroth/Charaktere/Emmerich.md"
+    },
+    {
+      "basename": "Leuchtturm",
+      "path": "Kampagne/Orte/Morgenroth/Stadtviertel/Hafen/Leuchtturm/Leuchtturm.md"
+    },
+    {
+      "basename": "Trommelberge",
+      "path": "Kampagne/Orte/Trommelberge.md"
+    },
+    {
+      "basename": "Dunmark",
+      "path": "Kampagne/Orte/Dunmark.md"
+    },
+    {
+      "basename": "DunmarkBild",
+      "path": "Kampagne/Orte/DunmarkBild.jpg"
+    },
+    {
+      "basename": "Zimt-Gnome",
+      "path": "Kampagne/Gegner/Zimt-Gnome.md"
+    },
+    {
+      "basename": "Zimt-Oase",
+      "path": "Kampagne/Orte/Zimt-Oase/Zimt-Oase.md"
+    },
+    {
+      "basename": "Zimtschnecken Nachschub",
+      "path": "Kampagne/Orte/Zimt-Oase/Quests/Zimtschnecken Nachschub/Zimtschnecken Nachschub.md"
+    },
+    {
+      "basename": "Zum Bierbäcker",
+      "path": "Kampagne/Orte/Morgenroth/Stadtviertel/Basar/Zum Bierbäcker/Zum Bierbäcker.md"
+    },
+    {
+      "basename": "Zum Bierbäcker Bild",
+      "path": "Kampagne/Orte/Morgenroth/Stadtviertel/Basar/Zum Bierbäcker/Bilder/Zum Bierbäcker Bild.png"
+    },
+    {
+      "basename": "Gebannter Staub des Sehers",
+      "path": "Kampagne/Items/Gebannter Staub des Sehers.md"
+    },
+    {
+      "basename": "Wüstengeier",
+      "path": "Kampagne/Gegner/Wüstengeier.md"
+    },
+    {
+      "basename": "Schreckliche Hyäne",
+      "path": "Kampagne/Gegner/Schreckliche Hyäne.md"
+    },
+    {
+      "basename": "Schattenmagier",
+      "path": "Kampagne/Gegner/Schattenmagier.md"
     },
     {
       "basename": "Amulett der Schattenumarmung",
@@ -101,104 +197,8 @@
       "path": "Kampagne/Items/Schild der Sonnenabsorption.md"
     },
     {
-      "basename": "Session 1 – Ankunft in Morgenroth",
-      "path": "Sessions/Session 1 – Ankunft in Morgenroth.md"
-    },
-    {
       "basename": "Der Rat von Morgenroth",
       "path": "Kampagne/Orte/Morgenroth/Gilden/Der Rat von Morgenroth.md"
-    },
-    {
-      "basename": "Handelsgilde",
-      "path": "Kampagne/Orte/Morgenroth/Gilden/Handelsgilde.md"
-    },
-    {
-      "basename": "Dunmark",
-      "path": "Kampagne/Orte/Dunmark.md"
-    },
-    {
-      "basename": "Trommelberge",
-      "path": "Kampagne/Orte/Trommelberge.md"
-    },
-    {
-      "basename": "Gesetze von Morgenroth",
-      "path": "Kampagne/Orte/Morgenroth/Gesetze von Morgenroth.md"
-    },
-    {
-      "basename": "Morgenroth",
-      "path": "Kampagne/Orte/Morgenroth/Morgenroth.md"
-    },
-    {
-      "basename": "Hafen",
-      "path": "Kampagne/Orte/Morgenroth/Stadtviertel/Hafen/Hafen.md"
-    },
-    {
-      "basename": "Apotheke",
-      "path": "Kampagne/Orte/Morgenroth/Stadtviertel/Basar/Apotheke/Apotheke.md"
-    },
-    {
-      "basename": "Basar",
-      "path": "Kampagne/Orte/Morgenroth/Stadtviertel/Basar/Basar.md"
-    },
-    {
-      "basename": "Apotheke Bild",
-      "path": "Kampagne/Orte/Morgenroth/Stadtviertel/Basar/Apotheke/Apotheke Bild.jpg"
-    },
-    {
-      "basename": "Aldric",
-      "path": "Kampagne/Orte/Morgenroth/Charaktere/Aldric.md"
-    },
-    {
-      "basename": "Prolog an Land",
-      "path": "Kampagne/Hauptquest/Akt 0/Prolog an Land.md"
-    },
-    {
-      "basename": "Kapitän Elias Richter",
-      "path": "Kampagne/Hauptquest/Akt 0/Charaktere/Kapitän Elias Richter.md"
-    },
-    {
-      "basename": "Das Erwachen der Schatten",
-      "path": "Kampagne/Hauptquest/Das Erwachen der Schatten.md"
-    },
-    {
-      "basename": "Expeditionsgilde",
-      "path": "Kampagne/Orte/Morgenroth/Gilden/Expeditionsgilde/Expeditionsgilde.md"
-    },
-    {
-      "basename": "Malakar",
-      "path": "Kampagne/Orte/Aschefestung/Charaktere/Malakar.md"
-    },
-    {
-      "basename": "Borgo",
-      "path": "Kampagne/Orte/Morgenroth/Charaktere/Borgo.md"
-    },
-    {
-      "basename": "Gorn Hammerfall",
-      "path": "Kampagne/Orte/Morgenroth/Charaktere/Gorn Hammerfall.md"
-    },
-    {
-      "basename": "Elara",
-      "path": "Kampagne/Orte/Morgenroth/Charaktere/Elara.md"
-    },
-    {
-      "basename": "Zira",
-      "path": "Kampagne/Orte/Morgenroth/Charaktere/Zira.md"
-    },
-    {
-      "basename": "Vera",
-      "path": "Kampagne/Orte/Morgenroth/Charaktere/Vera.md"
-    },
-    {
-      "basename": "Soltan",
-      "path": "Kampagne/Orte/Morgenroth/Charaktere/Soltan.md"
-    },
-    {
-      "basename": "Nora Stein",
-      "path": "Kampagne/Orte/Morgenroth/Charaktere/Nora Stein.md"
-    },
-    {
-      "basename": "Martha",
-      "path": "Kampagne/Orte/Morgenroth/Charaktere/Martha.md"
     }
   ],
   "omittedPaths": [],

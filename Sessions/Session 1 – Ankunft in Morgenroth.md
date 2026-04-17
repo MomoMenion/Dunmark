@@ -1,4 +1,5 @@
-# Überblick
+#Session
+
 Die Spieler reisen als Passagiere auf dem Handelsschiff von [[Kapitän Elias Richter]] nach [[Morgenroth]]. 
 Die Session beginnt mit dem Kennenlernen der Gruppe auf See, einem ersten Kampf gegen das 
 [[Auge der Tiefsee]] und endet mit der Ankunft und ersten Erkundung der Stadt.
@@ -18,11 +19,13 @@ Die Session beginnt mit dem Kennenlernen der Gruppe auf See, einem ersten Kampf 
 ### 3. Erste Erkundung
 - Spieler können die Stadt frei erkunden
 - Erste NPC-Begegnungen: [[Martha]], [[Gorn Hammerfall]], Händler
-- Erster Quest-Hook: [[Hauptmann Kaelen]] spricht die Spieler wegen [[Misstrauen am Kai]] an
-### 4. Erster Quest-Hook
-- [[Misstrauen am Kai]] als natürlicher erster Auftrag
-- Führt die Spieler ans [[Ansehen|Ansehen-System]] heran (+10 Ansehen bei Erfolg)
-- Optional: [[Zimtschnecken Nachschub]] oder [[Die schüchterne Schmiedegesellin]] oder [[Ein ungewöhnliches Haustier]] als leichtere Parallele
+### 4. Erste Quest-Hooks:
+- [[Hauptmann Kaelen]] spricht die Spieler wegen [[Misstrauen am Kai]] an
+- [[Martha]] spricht die Spieler auf [[Zimtschnecken Nachschub]] an
+- [[Borgo]] spricht die Spieler auf [[Ein ungewöhnliches Haustier]] an
+- [[Gorn Hammerfall]] spricht die Spieler auf [[Die schüchterne Schmiedegesellin]] an
+### 5. Erste abgeschlossene Quest
+- Führt die Spieler ans [[Ansehen|Ansehen-System]] heran
 
 ---
 ## Wichtige Quests

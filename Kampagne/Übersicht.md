@@ -5,8 +5,8 @@ Die Geschichte der menschlichen Besiedlung von [[Dunmark]] begann mit Siedlern, 
 
 Aus den Erfahrungen **Faerûns** heraus, wo Religion und Magie oft als Ursprung von Ungleichgewicht, Konflikten und Kriegen galten, wurden diese in [[Morgenroth]] verbannt. Im Laufe der Zeit hat sich [[Morgenroth]] zu einem Leuchtturm der Toleranz entwickelt und zieht vereinzelt auch Angehörige anderer Völker an, die sich dem friedlichen Leben anschließen wollen.
 ## Völker
-Die Menschen von [[Morgenroth]] pflegen friedliche Beziehungen sowohl zu den **Orks** in den [[Trommelberge|Trommelbergen]] als auch zu den **Merfolk** in [[Laghan]]. Lediglich von den **Drows** gibt es bisher nur Gerüchte – Begegnungen mit ihnen sind noch ausgeblieben.
-### Menschen
+Die Bewohner von [[Morgenroth]] pflegen friedliche Beziehungen sowohl zu den **Orks** in den [[Trommelberge|Trommelbergen]] als auch zu den **Merfolk** in [[Laghan]]. Lediglich von den **Drows** gibt es bisher nur Gerüchte – Begegnungen mit ihnen sind noch ausgeblieben.
+### Morgenroth-Bewohner
 - [[Soltan]]
 - [[Marika & Marik]]
 - [[Martha]]
@@ -17,6 +17,8 @@ Die Menschen von [[Morgenroth]] pflegen friedliche Beziehungen sowohl zu den **O
 - [[Urga]]
 ### Merfolk
 - [[Melantes]]
+### Drows 
+- [[Malakar]]
 # Quests
 ## Hauptquest
 Die Hauptquest [[Das Erwachen der Schatten]] dreht sich um die zunehmende Bedrohung durch die **Drows** und das drohende Erwachen des **uralten Drow-Fürsten** [[Malakar]].
@@ -42,6 +44,9 @@ Die Hauptquest [[Das Erwachen der Schatten]] dreht sich um die zunehmende Bedroh
 - [[Ein ungewöhnliches Haustier]]
 - [[Die schüchterne Schmiedegesellin]]
 - [[Zimtschnecken Nachschub]]
+- [[Das erloschene Licht]]
+- [[Signale in der Nacht]]
+- [[Ein Zuhause in Morgenroth]]
 #### Mit mittlerem Ansehen
 - [[Steuerverzug]]
 - [[Die Goldküsten-Ausgrabung]]

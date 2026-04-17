@@ -1,3 +1,4 @@
+#System 
 # Ansehen in Morgenroth
 
 Ansehen spiegelt wider, wie die Bürger und Institutionen von [[Morgenroth]] die Spieler wahrnehmen. Es wird als Gruppe getracked – nicht individuell. Die Spieler starten mit **0 Ansehen** und benötigen **100 Ansehen**, um das [[Morgenroth-Abzeichen]] zu erhalten.

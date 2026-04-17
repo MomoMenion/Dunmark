@@ -1,4 +1,4 @@
-# [[Zimbo]] – Mögliche Dialoge
+#Charakter 
 
 _Alle Aussagen werden mit der Selbstverständlichkeit eines Mannes vorgetragen, der gerade eine Urkunde ausstellt._
 

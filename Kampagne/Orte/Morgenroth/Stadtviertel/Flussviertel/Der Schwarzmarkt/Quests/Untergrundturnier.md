@@ -1,3 +1,5 @@
+#Quest 
+
 Im Herzen des geheimen Schwarzmarktes von [[Morgenroth]] findet einmal jährlich ein berüchtigtes Untergrundturnier statt. Es ist ein Ereignis, das die Schattenwelt der Stadt in Aufregung versetzt und Kämpfer, Glücksspieler und Neugierige aus allen Ecken anzieht, die das Verbotene suchen.
 
 Das Turnier ist in drei Phasen unterteilt, die die Fähigkeiten der Teilnehmer auf die Probe stellen. Es wird in Teams angetreten. In jeder Phase sammeln die Teilnehmer Punkte. Die zwei Teams mit den meisten Punkten treten zum Schluss gegeneinander an.

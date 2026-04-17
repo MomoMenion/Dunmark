@@ -17,4 +17,4 @@
 	- [x] Farmhaus
 	- [x] Herrenhaus
 	- [x] Villa
-- [ ] [[Zimbo]] Bild
+- [x] [[Zimbo]] Bild

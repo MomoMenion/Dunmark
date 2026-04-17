@@ -7,5 +7,6 @@ Er sehnt sich nach seinem Ruhestand aber hat noch keinen würdigen Nachfolger ge
 Er ist außerdem Teil vom [[Der Rat von Morgenroth]].
 #### Quests
 - [[Misstrauen am Kai]]
+- [[Das erloschene Licht]]
 
 ![[HauptmannKaelenBild.jpg]]

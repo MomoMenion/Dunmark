@@ -8,6 +8,7 @@ Das Gasthaus "Zur Ankerkette" liegt im [[Hafen|Hafenviertel]], nur wenige Schrit
 - Zimmer für eine Nacht – 2 Gold
 ### Quests
 - [[Ein ungewöhnliches Haustier]]
+- [[Signale in der Nacht]]
 
 ![[ZurAnkerketteBild.jpg]]
 ### Hinweis für den Spielleiter

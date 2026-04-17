@@ -29,4 +29,4 @@ kaum wahrnehmbaren Nicken. [[Großadmiral]] verschwindet im Fluss und wird geleg
 noch gesichtet oder aber begleitet die Spieler auf ihren Reisen (braucht aber regelmäßig Wasser).
 ### Belohnung
 - Eine Runde Getränke aufs Haus
-- +5 Ansehen (Borgos Respekt ist selten und wertvoll)
+- +5 [[Ansehen]] ([[Borgo]]s Respekt ist selten und wertvoll)

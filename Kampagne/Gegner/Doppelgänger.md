@@ -7,7 +7,7 @@ Diese Kreaturen sind perfekte Nachahmer, die darauf ausgelegt sind, sich in Geme
 ---
 
 **Rüstungsklasse** 13
-**Trefferpunkte** 35
+**Trefferpunkte** 25
 **Bewegung** 30 ft.
 
 ---
