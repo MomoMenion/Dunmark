@@ -1,12 +1,84 @@
 {
   "recentFiles": [
     {
-      "basename": "Prolog an Land",
-      "path": "Kampagne/Hauptquest/Akt 0/Prolog an Land.md"
+      "basename": "ToDo",
+      "path": "ToDo/ToDo.md"
+    },
+    {
+      "basename": "Session 2 – Hauptquest Einführung",
+      "path": "Sessions/Vorbereitung/Session 2 – Hauptquest Einführung.md"
+    },
+    {
+      "basename": "Steuerverzug",
+      "path": "Kampagne/Orte/Flussheim/Quests/Steuerverzug.md"
+    },
+    {
+      "basename": "Session 1 – Rückblick (Spielleiter)",
+      "path": "Sessions/Vorbereitung/Session 1 – Rückblick (Spielleiter).md"
+    },
+    {
+      "basename": "Untergrundturnier",
+      "path": "Kampagne/Orte/Morgenroth/Stadtviertel/Flussviertel/Der Schwarzmarkt/Quests/Untergrundturnier.md"
+    },
+    {
+      "basename": "Schwarzmarkt",
+      "path": "Kampagne/Orte/Morgenroth/Stadtviertel/Flussviertel/Der Schwarzmarkt/Schwarzmarkt.md"
     },
     {
       "basename": "Session 1 – Ankunft in Morgenroth",
-      "path": "Sessions/Session 1 – Ankunft in Morgenroth.md"
+      "path": "Sessions/Vorbereitung/Session 1 – Ankunft in Morgenroth.md"
+    },
+    {
+      "basename": "Der Rat von Morgenroth",
+      "path": "Kampagne/Orte/Morgenroth/Gilden/Der Rat von Morgenroth.md"
+    },
+    {
+      "basename": "Imam Ka'thar",
+      "path": "Kampagne/Orte/Flussheim/Charaktere/Imam Ka'thar.md"
+    },
+    {
+      "basename": "Zimbo",
+      "path": "Kampagne/Orte/Zimt-Oase/Charaktere/Zimbo.md"
+    },
+    {
+      "basename": "Flussheim",
+      "path": "Kampagne/Orte/Flussheim/Flussheim.md"
+    },
+    {
+      "basename": "Hauptmann Kaelen",
+      "path": "Kampagne/Orte/Morgenroth/Charaktere/Hauptmann Kaelen.md"
+    },
+    {
+      "basename": "Borgo",
+      "path": "Kampagne/Orte/Morgenroth/Charaktere/Borgo.md"
+    },
+    {
+      "basename": "Soltan",
+      "path": "Kampagne/Orte/Morgenroth/Charaktere/Soltan.md"
+    },
+    {
+      "basename": "Gorn Hammerfall",
+      "path": "Kampagne/Orte/Morgenroth/Charaktere/Gorn Hammerfall.md"
+    },
+    {
+      "basename": "Session 1 - Journal",
+      "path": "Sessions/Journals/Session 1 - Journal.md"
+    },
+    {
+      "basename": "Das Auge der Sonne",
+      "path": "Kampagne/Orte/Flussheim/Quests/Das Auge der Sonne.md"
+    },
+    {
+      "basename": "Übersicht",
+      "path": "Kampagne/Übersicht.md"
+    },
+    {
+      "basename": "Alchemie",
+      "path": "Kampagne/Systeme/Alchemie.md"
+    },
+    {
+      "basename": "Prolog an Land",
+      "path": "Kampagne/Hauptquest/Akt 0/Prolog an Land.md"
     },
     {
       "basename": "Auge der Tiefsee",
@@ -37,16 +109,8 @@
       "path": "Kampagne/Orte/Morgenroth/Stadtviertel/Hafen/Quests/Ein ungewöhnliches Haustier.md"
     },
     {
-      "basename": "Übersicht",
-      "path": "Kampagne/Übersicht.md"
-    },
-    {
       "basename": "Vermisste Karawanen",
       "path": "Kampagne/Hauptquest/Akt 1/Vermisste Karawanen.md"
-    },
-    {
-      "basename": "ToDo",
-      "path": "ToDo/ToDo.md"
     },
     {
       "basename": "Zimbo Dialoge",
@@ -55,14 +119,6 @@
     {
       "basename": "Gesetze von Morgenroth",
       "path": "Kampagne/Orte/Morgenroth/Gesetze von Morgenroth.md"
-    },
-    {
-      "basename": "Zimbo",
-      "path": "Kampagne/Orte/Zimt-Oase/Charaktere/Zimbo.md"
-    },
-    {
-      "basename": "Untergrundturnier",
-      "path": "Kampagne/Orte/Morgenroth/Stadtviertel/Flussviertel/Der Schwarzmarkt/Quests/Untergrundturnier.md"
     },
     {
       "basename": "Handelsgilde",
@@ -79,14 +135,6 @@
     {
       "basename": "Schmieden",
       "path": "Kampagne/Systeme/Schmieden.md"
-    },
-    {
-      "basename": "Alchemie",
-      "path": "Kampagne/Systeme/Alchemie.md"
-    },
-    {
-      "basename": "Hauptmann Kaelen",
-      "path": "Kampagne/Orte/Morgenroth/Charaktere/Hauptmann Kaelen.md"
     },
     {
       "basename": "Signale in der Nacht",
@@ -151,54 +199,6 @@
     {
       "basename": "Zum Bierbäcker Bild",
       "path": "Kampagne/Orte/Morgenroth/Stadtviertel/Basar/Zum Bierbäcker/Bilder/Zum Bierbäcker Bild.png"
-    },
-    {
-      "basename": "Gebannter Staub des Sehers",
-      "path": "Kampagne/Items/Gebannter Staub des Sehers.md"
-    },
-    {
-      "basename": "Wüstengeier",
-      "path": "Kampagne/Gegner/Wüstengeier.md"
-    },
-    {
-      "basename": "Schreckliche Hyäne",
-      "path": "Kampagne/Gegner/Schreckliche Hyäne.md"
-    },
-    {
-      "basename": "Schattenmagier",
-      "path": "Kampagne/Gegner/Schattenmagier.md"
-    },
-    {
-      "basename": "Amulett der Schattenumarmung",
-      "path": "Kampagne/Items/Amulett der Schattenumarmung.md"
-    },
-    {
-      "basename": "Amulett der unendlichen Hitze",
-      "path": "Kampagne/Items/Amulett der unendlichen Hitze.md"
-    },
-    {
-      "basename": "Gebeine der Sonne",
-      "path": "Kampagne/Items/Gebeine der Sonne.md"
-    },
-    {
-      "basename": "Krummsäbel des Wüstenwindes",
-      "path": "Kampagne/Items/Krummsäbel des Wüstenwindes.md"
-    },
-    {
-      "basename": "Morgenroth-Abzeichen",
-      "path": "Kampagne/Items/Morgenroth-Abzeichen.md"
-    },
-    {
-      "basename": "Phiole des Meeresatems",
-      "path": "Kampagne/Items/Phiole des Meeresatems.md"
-    },
-    {
-      "basename": "Schild der Sonnenabsorption",
-      "path": "Kampagne/Items/Schild der Sonnenabsorption.md"
-    },
-    {
-      "basename": "Der Rat von Morgenroth",
-      "path": "Kampagne/Orte/Morgenroth/Gilden/Der Rat von Morgenroth.md"
     }
   ],
   "omittedPaths": [],
