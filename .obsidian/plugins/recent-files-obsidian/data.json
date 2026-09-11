@@ -1,72 +1,8 @@
 {
   "recentFiles": [
     {
-      "basename": "ToDo",
-      "path": "ToDo/ToDo.md"
-    },
-    {
-      "basename": "Session 2 – Hauptquest Einführung",
-      "path": "Sessions/Vorbereitung/Session 2 – Hauptquest Einführung.md"
-    },
-    {
-      "basename": "Steuerverzug",
-      "path": "Kampagne/Orte/Flussheim/Quests/Steuerverzug.md"
-    },
-    {
-      "basename": "Session 1 – Rückblick (Spielleiter)",
-      "path": "Sessions/Vorbereitung/Session 1 – Rückblick (Spielleiter).md"
-    },
-    {
-      "basename": "Untergrundturnier",
-      "path": "Kampagne/Orte/Morgenroth/Stadtviertel/Flussviertel/Der Schwarzmarkt/Quests/Untergrundturnier.md"
-    },
-    {
-      "basename": "Schwarzmarkt",
-      "path": "Kampagne/Orte/Morgenroth/Stadtviertel/Flussviertel/Der Schwarzmarkt/Schwarzmarkt.md"
-    },
-    {
-      "basename": "Session 1 – Ankunft in Morgenroth",
-      "path": "Sessions/Vorbereitung/Session 1 – Ankunft in Morgenroth.md"
-    },
-    {
-      "basename": "Der Rat von Morgenroth",
-      "path": "Kampagne/Orte/Morgenroth/Gilden/Der Rat von Morgenroth.md"
-    },
-    {
-      "basename": "Imam Ka'thar",
-      "path": "Kampagne/Orte/Flussheim/Charaktere/Imam Ka'thar.md"
-    },
-    {
-      "basename": "Zimbo",
-      "path": "Kampagne/Orte/Zimt-Oase/Charaktere/Zimbo.md"
-    },
-    {
-      "basename": "Flussheim",
-      "path": "Kampagne/Orte/Flussheim/Flussheim.md"
-    },
-    {
-      "basename": "Hauptmann Kaelen",
-      "path": "Kampagne/Orte/Morgenroth/Charaktere/Hauptmann Kaelen.md"
-    },
-    {
-      "basename": "Borgo",
-      "path": "Kampagne/Orte/Morgenroth/Charaktere/Borgo.md"
-    },
-    {
-      "basename": "Soltan",
-      "path": "Kampagne/Orte/Morgenroth/Charaktere/Soltan.md"
-    },
-    {
-      "basename": "Gorn Hammerfall",
-      "path": "Kampagne/Orte/Morgenroth/Charaktere/Gorn Hammerfall.md"
-    },
-    {
-      "basename": "Session 1 - Journal",
-      "path": "Sessions/Journals/Session 1 - Journal.md"
-    },
-    {
-      "basename": "Das Auge der Sonne",
-      "path": "Kampagne/Orte/Flussheim/Quests/Das Auge der Sonne.md"
+      "basename": "Ausrüstung",
+      "path": "Kampagne/Systeme/Ausrüstung.md"
     },
     {
       "basename": "Übersicht",
@@ -77,128 +13,192 @@
       "path": "Kampagne/Systeme/Alchemie.md"
     },
     {
-      "basename": "Prolog an Land",
-      "path": "Kampagne/Hauptquest/Akt 0/Prolog an Land.md"
+      "basename": "Session 2 – Hauptquest Einführung",
+      "path": "Sessions/Vorbereitung/Session 2 – Hauptquest Einführung.md"
     },
     {
-      "basename": "Auge der Tiefsee",
-      "path": "Kampagne/Gegner/Auge der Tiefsee.md"
-    },
-    {
-      "basename": "Schattenjäger",
-      "path": "Kampagne/Gegner/Schattenjäger.md"
-    },
-    {
-      "basename": "Sandspinne",
-      "path": "Kampagne/Gegner/Sandspinne.md"
-    },
-    {
-      "basename": "Sandelementar",
-      "path": "Kampagne/Gegner/Sandelementar.md"
-    },
-    {
-      "basename": "Riesenskorpion",
-      "path": "Kampagne/Gegner/Riesenskorpion.md"
-    },
-    {
-      "basename": "Doppelgänger",
-      "path": "Kampagne/Gegner/Doppelgänger.md"
-    },
-    {
-      "basename": "Ein ungewöhnliches Haustier",
-      "path": "Kampagne/Orte/Morgenroth/Stadtviertel/Hafen/Quests/Ein ungewöhnliches Haustier.md"
+      "basename": "Orkische Angelegenheiten",
+      "path": "Kampagne/Hauptquest/Akt 1/Orkische Angelegenheiten.md"
     },
     {
       "basename": "Vermisste Karawanen",
       "path": "Kampagne/Hauptquest/Akt 1/Vermisste Karawanen.md"
     },
     {
-      "basename": "Zimbo Dialoge",
-      "path": "Kampagne/Orte/Zimt-Oase/Quests/Zimtschnecken Nachschub/Zimbo Dialoge.md"
+      "basename": "Kapitänin Seraphina",
+      "path": "Kampagne/Orte/Goldküste/Charaktere/Kapitänin Seraphina.md"
     },
     {
-      "basename": "Gesetze von Morgenroth",
-      "path": "Kampagne/Orte/Morgenroth/Gesetze von Morgenroth.md"
+      "basename": "Die Goldküsten-Ausgrabung",
+      "path": "Kampagne/Orte/Morgenroth/Gilden/Expeditionsgilde/Quests/Die Goldküsten-Ausgrabung.md"
     },
     {
-      "basename": "Handelsgilde",
-      "path": "Kampagne/Orte/Morgenroth/Gilden/Handelsgilde.md"
+      "basename": "Kapitänin Serpahina Bild",
+      "path": "Kampagne/Orte/Goldküste/Charaktere/Bilder/Kapitänin Serpahina Bild.jpg"
     },
     {
-      "basename": "Expeditionsgilde",
-      "path": "Kampagne/Orte/Morgenroth/Gilden/Expeditionsgilde/Expeditionsgilde.md"
+      "basename": "Banditenhöhle",
+      "path": "Kampagne/Orte/Goldküste/Banditenhöhle.md"
     },
     {
-      "basename": "Ansehen",
-      "path": "Kampagne/Systeme/Ansehen.md"
+      "basename": "Ausgrabungsstätte",
+      "path": "Kampagne/Orte/Goldküste/Ausgrabungsstätte.md"
     },
     {
-      "basename": "Schmieden",
-      "path": "Kampagne/Systeme/Schmieden.md"
+      "basename": "Goldküste",
+      "path": "Kampagne/Orte/Goldküste/Goldküste.md"
     },
     {
-      "basename": "Signale in der Nacht",
-      "path": "Kampagne/Orte/Morgenroth/Stadtviertel/Hafen/Quests/Signale in der Nacht.md"
+      "basename": "Überfallene Karawane",
+      "path": "Kampagne/Orte/Dunmark/Überfallene Karawane/Überfallene Karawane.md"
     },
     {
-      "basename": "Zur Ankerkette",
-      "path": "Kampagne/Orte/Morgenroth/Stadtviertel/Hafen/Zur Ankerkette/Zur Ankerkette.md"
+      "basename": "Der singende Oktopus",
+      "path": "Kampagne/Orte/Morgenroth/Stadtviertel/Hafen/Quests/Der singende Oktopus.md"
     },
     {
-      "basename": "Hafen",
-      "path": "Kampagne/Orte/Morgenroth/Stadtviertel/Hafen/Hafen.md"
+      "basename": "Verborgene Drow Ruine",
+      "path": "Kampagne/Orte/Dunmark/Verborgene Drow Ruine/Verborgene Drow Ruine.md"
     },
     {
-      "basename": "Kela die Flüsternde",
-      "path": "Kampagne/Orte/Morgenroth/Stadtviertel/Flussviertel/Der Schwarzmarkt/Charaktere/Kela die Flüsternde.md"
+      "basename": "Kranak's Schlund",
+      "path": "Kampagne/Orte/Trommelberge/Kranak's Schlund/Kranak's Schlund.md"
     },
     {
-      "basename": "Das erloschene Licht",
-      "path": "Kampagne/Orte/Morgenroth/Stadtviertel/Hafen/Quests/Das erloschene Licht.md"
+      "basename": "Kranak'sSchlund",
+      "path": "Kampagne/Orte/Trommelberge/Kranak's Schlund/Bilder/Kranak'sSchlund.jpg"
+    },
+    {
+      "basename": "Urga Bild",
+      "path": "Kampagne/Orte/Trommelberge/Kranak's Schlund/Bilder/Urga Bild.png"
+    },
+    {
+      "basename": "Kranak's Schlund Dorf",
+      "path": "Kampagne/Orte/Trommelberge/Kranak's Schlund/Bilder/Kranak's Schlund Dorf.png"
+    },
+    {
+      "basename": "Grommash Bild",
+      "path": "Kampagne/Orte/Trommelberge/Kranak's Schlund/Bilder/Grommash Bild.png"
+    },
+    {
+      "basename": "Trommelberge",
+      "path": "Kampagne/Orte/Trommelberge/Trommelberge.md"
+    },
+    {
+      "basename": "DunmarkBild",
+      "path": "Kampagne/Orte/Dunmark/DunmarkBild.jpg"
+    },
+    {
+      "basename": "Dunmark",
+      "path": "Kampagne/Orte/Dunmark/Dunmark.md"
+    },
+    {
+      "basename": "Verlassene Ruine",
+      "path": "Kampagne/Orte/Flussheim/Orte/Verlassene Ruine.md"
+    },
+    {
+      "basename": "Joran's Anwesen",
+      "path": "Kampagne/Orte/Flussheim/Orte/Joran's Anwesen.md"
+    },
+    {
+      "basename": "Flussheim",
+      "path": "Kampagne/Orte/Flussheim/Flussheim.md"
     },
     {
       "basename": "Joran der Geizige",
       "path": "Kampagne/Orte/Flussheim/Charaktere/Joran der Geizige.md"
     },
     {
-      "basename": "Emmerich",
-      "path": "Kampagne/Orte/Morgenroth/Charaktere/Emmerich.md"
+      "basename": "Evangeline",
+      "path": "Kampagne/Orte/Flussheim/Charaktere/Evangeline.md"
     },
     {
-      "basename": "Leuchtturm",
-      "path": "Kampagne/Orte/Morgenroth/Stadtviertel/Hafen/Leuchtturm/Leuchtturm.md"
+      "basename": "Farina",
+      "path": "Kampagne/Orte/Flussheim/Charaktere/Farina.md"
     },
     {
-      "basename": "Trommelberge",
-      "path": "Kampagne/Orte/Trommelberge.md"
+      "basename": "Imam Ka'thar",
+      "path": "Kampagne/Orte/Flussheim/Charaktere/Imam Ka'thar.md"
     },
     {
-      "basename": "Dunmark",
-      "path": "Kampagne/Orte/Dunmark.md"
+      "basename": "Roric",
+      "path": "Kampagne/Orte/Flussheim/Charaktere/Roric.md"
     },
     {
-      "basename": "DunmarkBild",
-      "path": "Kampagne/Orte/DunmarkBild.jpg"
+      "basename": "Joran der Geizige Bild",
+      "path": "Kampagne/Orte/Flussheim/Charaktere/Bilder/Joran der Geizige Bild.jpg"
     },
     {
-      "basename": "Zimt-Gnome",
-      "path": "Kampagne/Gegner/Zimt-Gnome.md"
+      "basename": "ToDo",
+      "path": "ToDo/ToDo.md"
     },
     {
-      "basename": "Zimt-Oase",
-      "path": "Kampagne/Orte/Zimt-Oase/Zimt-Oase.md"
+      "basename": "Roric Bild",
+      "path": "Kampagne/Orte/Flussheim/Charaktere/Bilder/Roric Bild.jpg"
     },
     {
-      "basename": "Zimtschnecken Nachschub",
-      "path": "Kampagne/Orte/Zimt-Oase/Quests/Zimtschnecken Nachschub/Zimtschnecken Nachschub.md"
+      "basename": "Evangeline Bild",
+      "path": "Kampagne/Orte/Flussheim/Charaktere/Bilder/Evangeline Bild.jpg"
     },
     {
-      "basename": "Zum Bierbäcker",
-      "path": "Kampagne/Orte/Morgenroth/Stadtviertel/Basar/Zum Bierbäcker/Zum Bierbäcker.md"
+      "basename": "Farina Bild",
+      "path": "Kampagne/Orte/Flussheim/Charaktere/Bilder/Farina Bild.jpg"
     },
     {
-      "basename": "Zum Bierbäcker Bild",
-      "path": "Kampagne/Orte/Morgenroth/Stadtviertel/Basar/Zum Bierbäcker/Bilder/Zum Bierbäcker Bild.png"
+      "basename": "Schwarzmarkt",
+      "path": "Kampagne/Orte/Morgenroth/Stadtviertel/Flussviertel/Der Schwarzmarkt/Schwarzmarkt.md"
+    },
+    {
+      "basename": "Untergrundturnier",
+      "path": "Kampagne/Orte/Morgenroth/Stadtviertel/Flussviertel/Der Schwarzmarkt/Quests/Untergrundturnier.md"
+    },
+    {
+      "basename": "Rostus der Schrotthändler",
+      "path": "Kampagne/Orte/Morgenroth/Stadtviertel/Flussviertel/Der Schwarzmarkt/Charaktere/Rostus der Schrotthändler.md"
+    },
+    {
+      "basename": "Kela die Flüsternde",
+      "path": "Kampagne/Orte/Morgenroth/Stadtviertel/Flussviertel/Der Schwarzmarkt/Charaktere/Kela die Flüsternde.md"
+    },
+    {
+      "basename": "Grimgul der Grinser",
+      "path": "Kampagne/Orte/Morgenroth/Stadtviertel/Flussviertel/Der Schwarzmarkt/Charaktere/Grimgul der Grinser.md"
+    },
+    {
+      "basename": "Lyra die Kräuterhexe",
+      "path": "Kampagne/Orte/Morgenroth/Stadtviertel/Flussviertel/Der Schwarzmarkt/Charaktere/Lyra die Kräuterhexe.md"
+    },
+    {
+      "basename": "Haus des Gelehrten",
+      "path": "Kampagne/Orte/Morgenroth/Stadtviertel/Flussviertel/Haus des Gelehrten/Haus des Gelehrten.md"
+    },
+    {
+      "basename": "Aldus Prenn",
+      "path": "Kampagne/Orte/Morgenroth/Stadtviertel/Flussviertel/Haus des Gelehrten/Aldus Prenn.md"
+    },
+    {
+      "basename": "Die Schmiede",
+      "path": "Kampagne/Orte/Morgenroth/Stadtviertel/Flussviertel/Die Schmiede/Die Schmiede.md"
+    },
+    {
+      "basename": "Flussviertel",
+      "path": "Kampagne/Orte/Morgenroth/Stadtviertel/Flussviertel/Flussviertel.md"
+    },
+    {
+      "basename": "HausDesGelehrten",
+      "path": "Kampagne/Orte/Morgenroth/Stadtviertel/Flussviertel/Haus des Gelehrten/Bilder/HausDesGelehrten.jpg"
+    },
+    {
+      "basename": "Session 1 – Rückblick (Spielleiter)",
+      "path": "Sessions/Vorbereitung/Session 1 – Rückblick (Spielleiter).md"
+    },
+    {
+      "basename": "Session 1 – Ankunft in Morgenroth",
+      "path": "Sessions/Vorbereitung/Session 1 – Ankunft in Morgenroth.md"
+    },
+    {
+      "basename": "Martha",
+      "path": "Kampagne/Orte/Morgenroth/Charaktere/Martha.md"
     }
   ],
   "omittedPaths": [],

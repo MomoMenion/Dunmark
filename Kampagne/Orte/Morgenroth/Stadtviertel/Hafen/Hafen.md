@@ -9,3 +9,4 @@ Der Hafen von [[Morgenroth]] ist das geschäftige Tor zur Außenwelt für die ju
 - [[Ein ungewöhnliches Haustier]]
 - [[Signale in der Nacht]]
 - [[Das erloschene Licht]]
+- [[Der singende Oktopus]]

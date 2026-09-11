@@ -71,12 +71,12 @@ Schmuggler transportierten magische Steine aus Dunmark. Verbindung zu Drows? Sch
 
 ## Charakterzustände & Gruppendetails
 
-| Charakter | Spieler | Notizen |
-|---|---|---|
-| Tohu | — | Merfolk aus Dunmark. Trägt magisches Familien-Erbstück (Kugel), Magie derzeit deaktiviert/eingeschränkt. Motivation: Großmutter finden (Flussheim). |
-| Ignatius | — | Gnom mit mechanischem Kampfstil (Schildwurf). Hat Aushilfsjob bei Gorn Hammerfall. |
-| Millie | — | Kampfkatze aus besserem Hause. Hat Elara adoptiert/bei Martha abgegeben. Hat erfolgreich Zimt verkauft. |
-| Ich (Journal-Autorin) | — | Diebin (Dietriche konfisziert). Hat Tohu zur Kooperation überredet. Schwarz markt-Affin. |
+| Charakter             | Spieler | Notizen                                                                                                                                             |
+| --------------------- | ------- | --------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Tohu                  | —       | Merfolk aus Dunmark. Trägt magisches Familien-Erbstück (Kugel), Magie derzeit deaktiviert/eingeschränkt. Motivation: Großmutter finden (Flussheim). |
+| Ignatius              | —       | Gnom mit mechanischem Kampfstil (Schildwurf). Hat Aushilfsjob bei Gorn Hammerfall.                                                                  |
+| Millie                | —       | Kampfkatze aus besserem Hause. Hat Elara adoptiert/bei Martha abgegeben. Hat erfolgreich Zimt verkauft.                                             |
+| Ich (Journal-Autorin) | —       | Diebin (Dietriche konfisziert). Hat Tohu zur Kooperation überredet. Schwarz markt-Affin.                                                            |
 
 ---
 

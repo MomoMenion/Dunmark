@@ -4,4 +4,4 @@ Kapitänin Seraphina ist die Anführerin der gestrandeten Matrosen, die an der [
 #### Quests
 - [[Die Goldküsten-Ausgrabung]]
 
-![[Kapitänin Serpahina Bild.png]]
+![[Kapitänin Serpahina Bild.jpg|358]]

@@ -7,4 +7,4 @@ Ein grobschlächtiger, bärbeißiger Mensch mit öligen Händen und einem leicht
 - **Flüsternder Kompass**: Ein alter Kompass, dessen Nadel manchmal ziellos zuckt, aber ab und zu tatsächlich in die Richtung eines großen Goldvorkommens zeigt (1x pro Tag, wenn in Reichweite eines signifikanten Schatzes). 400 Gold
 - **Wunderschlüsselfragmente**: Verschiedene alte, zerbrochene Schlüssel, die angeblich zu allem passen (nutzlos als Schlüssel, aber aus einem seltenen Metall). 50 Gold
 
-![[Rostus der Schrotthändler Bild.jpg]]
+![[Rostus der Schrotthändler Bild.jpg|476]]

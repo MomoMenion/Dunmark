@@ -11,7 +11,7 @@ ___
 ##### Die Überreste der Karawane
 Die Spuren der Karawane führen die Spieler an die Ausläufer der [[Trommelberge]]. Nach einigen Tagen der Reise durch die Wüste, finden die Spieler die Überreste der überfallenen Karawane. 
 
-Zerschmetterte Wagen, verstreute Habseligkeiten und die Kadaver der Zugtiere. Wüstengeier fallen über die Kadaver her. Bevor die Spieler die Karawane weiter untersuchen können, müssen sie gegen die [[Wüstengeier]] kämpfen
+Zerschmetterte Wagen, verstreute Habseligkeiten und die Kadaver der Zugtiere. Wüstengeier fallen über die Kadaver her. Bevor die Spieler die Karawane weiter untersuchen können, müssen sie gegen die [[Wüstengeier]] kämpfen.
 
 Nachdem die Tiere vertrieben sind, stellen die Spieler fest, dass der Großteil der wertvollen **Eisenfracht fehlt**. Beim genaueren Untersuchen der Szene, finden sie merkwürdige schwarze Steinfragmente in der Nähe, die anscheinend von seltsamen Waffen abgesplittert sind. Spuren deuten daraufhin, dass die Entführer der Fracht weiter in Richtung Osten gezogen sind.
 
@@ -29,7 +29,7 @@ ___
 *In ewiger Sehnsucht,*
 *Tom*
 ___
-##### Die verborgene Drow Ruine
+##### Die [[verborgene Drow Ruine]]
 Nach einigen Stunden finden die Spieler den Eingang zu einer merkwürdigen Ruine aus schwarzem Gestein. Sie ist ein Überbleibsel der ehemaligen Drow-Herrschaft über [[Dunmark]]. Die Atmosphäre ist düster, unheimlich und unnatürlich.
 
 - **Der Eingang:** Der Eingang ist von verwitterten, aber kunstvoll geschnitzten Steinreliefs umgeben, die schlangenartige Symbole und verschlungene Muster zeigen. Ein leichter, kühler Luftzug strömt aus dem Inneren, ungewöhnlich für die heiße Wüste.

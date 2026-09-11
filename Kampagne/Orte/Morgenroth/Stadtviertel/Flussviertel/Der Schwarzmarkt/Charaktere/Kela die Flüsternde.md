@@ -18,4 +18,4 @@ Eine schmächtige, stets in dunkle Tücher gehüllte Gestalt, deren Gesicht fast
 		Doch scheitert Mut, so wird die Welt verblassen,
 		Und ew'ge Nacht die Lande fest umfassen.
 
-![[Kaelen die Flüsternde Bild.jpg]]
+![[Kaelen die Flüsternde Bild.jpg|422]]

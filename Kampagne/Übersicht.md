@@ -51,6 +51,7 @@ Die Hauptquest [[Das Erwachen der Schatten]] dreht sich um die zunehmende Bedroh
 - [[Steuerverzug]]
 - [[Die Goldküsten-Ausgrabung]]
 - [[Untergrundturnier]]
+- [[Der singende Oktopus]]
 #### Mit hohem Ansehen
 - 
 ### [[Flussheim]]

@@ -12,8 +12,12 @@
 - [ ] Imam ist Marthas Sohn - sie weiß nichts von seinem Kultistentum
 - [ ] Tohus Großmutter "bei der Sonne" ausarbeiten?
 - [ ] nur Hinweise auf die Quest Steuerverzug (beim Reden mit Joran)
-
 ### Allgemein
 - [ ] Vermisste Karawanen einführen
 - [ ] Zira Schmiedegesellin Quest ggf. einführen
 - [ ] Weitere Quests?
+### Bilder
+- [ ] Joran der Geizige
+- [ ] Toms Leiche
+- [ ] Verschwunden Karawane / Drow Ruine?
+- [ ] Trommelberge Ausläufer

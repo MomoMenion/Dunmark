@@ -1,5 +1,4 @@
 #Charakter 
-
 ### Beschreibung
 Grimgul ist der eigentliche Strippenzieher und exzentrische Meister des [[Untergrundturnier]]s, ein Ork, dessen Geist so verdreht ist wie die Gänge des [[Schwarzmarkt]]es selbst.
 
@@ -11,4 +10,4 @@ Grimgul ist der Ansager, der Schiedsrichter (wenn es ihm gerade passt) und der P
 ### Motivation:
 Er veranstaltet das Turnier nicht des Geldes oder der Macht wegen, sondern aus purer Langeweile und der Freude am Chaos und der Unterhaltung. Die Anwesenheit von "normalen" Menschen und die Konfrontation mit den Regeln der Oberfläche fasziniert ihn und er liebt es, diese zu untergraben.
 
-![[Grimgul der Grinser Bild.jpg]]
+![[Grimgul der Grinser Bild.jpg|419]]
