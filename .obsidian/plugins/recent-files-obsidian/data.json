@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Das Auge der Sonne",
+      "path": "Kampagne/Orte/Flussheim/Quests/Das Auge der Sonne.md"
+    },
+    {
+      "basename": "Amulett der unendlichen Hitze",
+      "path": "Kampagne/Items/Artefakte/Amulett der unendlichen Hitze.md"
+    },
+    {
       "basename": "Session 2 – Hauptquest Einführung",
       "path": "Sessions/Vorbereitung/Session 2 – Hauptquest Einführung.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "Session 1 – Rückblick (Spielleiter)",
       "path": "Sessions/Vorbereitung/Session 1 – Rückblick (Spielleiter).md"
-    },
-    {
-      "basename": "Session 1 – Ankunft in Morgenroth",
-      "path": "Sessions/Vorbereitung/Session 1 – Ankunft in Morgenroth.md"
-    },
-    {
-      "basename": "Martha",
-      "path": "Kampagne/Orte/Morgenroth/Charaktere/Martha.md"
     }
   ],
   "omittedPaths": [],
